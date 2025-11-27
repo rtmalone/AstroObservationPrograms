@@ -1,0 +1,27 @@
+baseURL = 'https://astronomy.rtylermalone.com/'
+languageCode = 'en-us'
+title = 'Astronomy'
+
+[params]
+  description = 'My Astronomical League observation programs and deep sky observations'
+  author = 'R Tyler Malone'
+  defaultSketchImage = '/images/placeholder-sketch.svg'
+  doubleStarPlaceholder = '/images/placeholder-double-star.svg'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Observations'
+    url = '/observations/'
+    weight = 2
+  [[menu.main]]
+    name = 'Programs'
+    url = '/programs/'
+    weight = 3
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 4

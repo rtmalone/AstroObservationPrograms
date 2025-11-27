@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observations on Astronomy</title>
+    <link>http://localhost:54481/observations/</link>
+    <description>Recent content in Observations on Astronomy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:54481/observations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M42 - Orion Nebula</title>
+      <link>http://localhost:54481/observations/m42-orion-nebula/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54481/observations/m42-orion-nebula/</guid>
+      <description>&lt;p&gt;My first successful observation of the Great Orion Nebula. Even in light-polluted skies, the nebulosity was clearly visible surrounding the Trapezium cluster.&lt;/p&gt;&#xA;&lt;h2 id=&#34;visual-description&#34;&gt;Visual Description&lt;/h2&gt;&#xA;&lt;p&gt;The nebula appeared as a bright, diffuse cloud with the four stars of the Trapezium easily resolved at 80x magnification. Averted vision revealed more extensive nebulosity extending to the north and south.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Used OIII filter to enhance contrast&lt;/li&gt;&#xA;&lt;li&gt;The &amp;ldquo;wings&amp;rdquo; of the nebula were faintly visible&lt;/li&gt;&#xA;&lt;li&gt;Temperature: 45°F, light wind&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

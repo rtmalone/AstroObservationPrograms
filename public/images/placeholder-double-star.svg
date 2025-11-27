@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" aria-labelledby="double-star-title">
+  <title id="double-star-title">Double Star Observation Placeholder</title>
+  <defs>
+    <!-- Star glow -->
+    <filter id="starGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background stars -->
+  <circle cx="80" cy="90" r="1.2" fill="#b0c4de" opacity="0.7"/>
+  <circle cx="320" cy="70" r="0.9" fill="#b0c4de" opacity="0.6"/>
+  <circle cx="150" cy="300" r="1" fill="#b0c4de" opacity="0.65"/>
+  <circle cx="280" cy="320" r="1.1" fill="#b0c4de" opacity="0.7"/>
+  <circle cx="60" cy="250" r="0.8" fill="#b0c4de" opacity="0.55"/>
+  <circle cx="340" cy="200" r="1" fill="#b0c4de" opacity="0.6"/>
+  
+  <!-- Primary star (blue) -->
+  <g filter="url(#starGlow)">
+    <circle cx="175" cy="190" r="10" fill="#6b9bd1" opacity="0.8"/>
+    <circle cx="175" cy="190" r="6" fill="#a8c8e8"/>
+  </g>
+  
+  <!-- Secondary star (gold) -->
+  <g filter="url(#starGlow)">
+    <circle cx="220" cy="210" r="7" fill="#d4a855" opacity="0.8"/>
+    <circle cx="220" cy="210" r="4" fill="#f0c870"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="365" font-family="Arial, sans-serif" font-size="14" fill="#6b9bd1" text-anchor="middle" opacity="0.7">
+    Awaiting observation
+  </text>
+</svg>

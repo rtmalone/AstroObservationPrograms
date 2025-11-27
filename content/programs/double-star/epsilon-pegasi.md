@@ -1,0 +1,53 @@
+---
+image: "/images/placeholder-double-star.svg"
+title: "Epsilon Pegasi"
+constellation: "Pegasus"
+difficulty: "Easy"
+ra: "21h 44m.2"
+dec: "+09° 53'"
+magnitude: "2.5, 8.7"
+separation: "143.9"
+position_angle: "318°"
+last_measure: "2018"
+observed: false
+observation_date: "
+notes: "
+star_number: 94
+total_stars: 100
+prev_star: "Struve 2816"
+prev_star_link: "../struve-2816/"
+next_star: "Xi Cephei"
+next_star_link: "../xi-cephei/"
+program_link: "../"
+---
+
+# Epsilon Pegasi
+
+**Star 94 of 100**
+
+---
+
+
+## My Observation Details
+
+| Field | Data |
+|-------|------|
+| **Object Name** | Epsilon Pegasi |
+| **Seeing** | *(1-10, 10 being perfect)* |
+| **Transparency** | *(Limiting magnitude)* |
+| **Lat/Lon** | *(Observation location)* |
+| **Instrument** | *(Telescope/binoculars used)* |
+| **Power** | *(Magnification used)* |
+| **Date** | *(YYYY-MM-DD)* |
+| **Time** | *(Local time)* |
+| **Description** | *(Visual impression, colors, contrast)* |
+| **Est. P.A.** | *(Estimated position angle)* |
+
+## Observation Notes
+
+### Visual Description
+*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+
+### Additional Notes
+*Any other observations, challenges encountered, or notable details about this observation session*
+

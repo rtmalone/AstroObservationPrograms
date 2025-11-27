@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    
+    <div class="observation-grid">
+        {{ range .Pages }}
+        <article class="program-card">
+            {{ if .Params.image }}
+            <a href="{{ .Permalink }}">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+            </a>
+            {{ end }}
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{ if .Params.date }}
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+            {{ end }}
+            <p>{{ .Summary }}</p>
+            {{ if .Params.progress }}
+            <p>Progress: {{ .Params.progress }}</p>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

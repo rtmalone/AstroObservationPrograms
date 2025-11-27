@@ -1,0 +1,46 @@
+{{ define "main" }}
+<div class="content">
+    <h1>Welcome to My Astronomy Journey</h1>
+    <p>Documenting my observations and progress through Astronomical League programs.</p>
+    
+    <h2>Recent Observations</h2>
+    <div class="observation-grid">
+        {{ range first 6 (where .Site.RegularPages "Section" "observations") }}
+        <article class="program-card">
+            {{ if .Params.image }}
+            <a href="{{ .Permalink }}">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+            </a>
+            {{ end }}
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+            {{ if .Params.progress }}
+            <p>Progress: {{ .Params.progress }}</p>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+    
+    <h2>Observation Programs</h2>
+    <div class="observation-grid">
+        {{ with .Site.GetPage "/programs" }}
+            {{ range .Sections }}
+            <article class="program-card">
+                {{ if .Params.image }}
+                <a href="{{ .Permalink }}">
+                    <img src="{{ .Params.image }}" alt="{{ .Title }}">
+                </a>
+                {{ end }}
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                {{ if .Params.summary }}
+                <p>{{ .Params.summary }}</p>
+                {{ end }}
+                {{ if .Params.progress }}
+                <p>Progress: {{ .Params.progress }}</p>
+                {{ end }}
+            </article>
+            {{ end }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}

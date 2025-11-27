@@ -1,0 +1,97 @@
+{{ define "main" }}
+<article>
+    {{ if or .Params.prev_star .Params.next_star .Params.star_number }}
+    <nav class="page-navigation">
+        <div class="nav-links">
+            {{ if .Params.prev_star }}
+            <a href="{{ .Params.prev_star_link }}" class="nav-prev">← {{ .Params.prev_star }}</a>
+            {{ else }}
+            <span class="nav-spacer"></span>
+            {{ end }}
+            
+            {{ if .Params.program_link }}
+            <a href="{{ .Params.program_link }}" class="nav-program">Double Star Program</a>
+            {{ end }}
+            
+            {{ if .Params.next_star }}
+            <a href="{{ .Params.next_star_link }}" class="nav-next">{{ .Params.next_star }} →</a>
+            {{ else }}
+            <span class="nav-spacer"></span>
+            {{ end }}
+        </div>
+    </nav>
+    {{ end }}
+    
+    {{ if .Params.date }}
+    <header>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    </header>
+    {{ end }}
+    
+    <div class="content-body">
+        <div class="observation-layout">
+            <div class="content-text">
+                {{ $content := .Content }}
+                {{ $parts := split $content "<hr>" }}
+                {{ if ge (len $parts) 2 }}
+                {{ index $parts 0 | safeHTML }}
+                <hr>
+                    
+                    {{ if or .Params.constellation .Params.difficulty .Params.ra .Params.dec .Params.magnitude .Params.separation }}
+                    <div class="object-data-section">
+                        <h3>Object Data</h3>
+                        {{ if .Params.constellation }}
+                        <p><strong>Constellation:</strong> {{ .Params.constellation }}</p>
+                        {{ end }}
+                        {{ if .Params.difficulty }}
+                        <p><strong>Difficulty:</strong> {{ .Params.difficulty }}</p>
+                        {{ end }}
+                        {{ if .Params.ra }}
+                        <p><strong>Right Ascension:</strong> {{ .Params.ra }}</p>
+                        {{ end }}
+                        {{ if .Params.dec }}
+                        <p><strong>Declination:</strong> {{ .Params.dec }}</p>
+                        {{ end }}
+                        {{ if .Params.magnitude }}
+                        <p><strong>Magnitude:</strong> {{ .Params.magnitude }}</p>
+                        {{ end }}
+                        {{ if .Params.separation }}
+                        <p><strong>Separation:</strong> {{ .Params.separation }}"</p>
+                        {{ end }}
+                        {{ if .Params.position_angle }}
+                        <p><strong>Position Angle:</strong> {{ .Params.position_angle }}</p>
+                        {{ end }}
+                        {{ if .Params.last_measure }}
+                        <p><strong>Last WDS Measure:</strong> {{ .Params.last_measure }}</p>
+                        {{ end }}
+                        {{ if .Params.location }}
+                        <p><strong>Location:</strong> {{ .Params.location }}</p>
+                        {{ end }}
+                        {{ if .Params.equipment }}
+                        <p><strong>Equipment:</strong> {{ .Params.equipment }}</p>
+                        {{ end }}
+                        {{ if .Params.conditions }}
+                        <p><strong>Conditions:</strong> {{ .Params.conditions }}</p>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                    
+                    {{ index $parts 1 | safeHTML }}
+                {{ else }}
+                    {{ .Content }}
+                {{ end }}
+            </div>
+            
+            <div class="sketch-box">
+                <h3>Sketch</h3>
+                {{ $defaultImage := .Site.Params.defaultSketchImage }}
+                {{ if .Params.separation }}
+                    {{ $defaultImage = .Site.Params.doubleStarPlaceholder }}
+                {{ end }}
+                {{ $image := .Params.image | default $defaultImage }}
+                <img src="{{ $image }}" alt="{{ .Title }} sketch">
+            </div>
+        </div>
+    </div>
+</article>
+{{ end }}
