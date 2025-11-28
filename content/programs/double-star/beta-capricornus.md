@@ -15,7 +15,7 @@ next_star_link: "../gamma-delphinus/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Beta Capricornus
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Beta Capricornus |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.12, -85.33 |
+| **Instrument:** | 1000/102mm Orion Refractor |
+| **Power:** | 40x |
+| **Date:** | 8-20-24 |
+| **Time:** | 10:55pm EST |
+| **Est. P.A.:** | 280 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Wide separation but different colors. The primary is easily viewed as larger and gold. The secondary is cooler blue.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

@@ -15,7 +15,7 @@ next_star_link: "../beta-capricornus/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Alpha Capricornus
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Alpha Capricornus |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.12, -85.33 |
+| **Instrument:** | 1000/102mm Orion Refractor |
+| **Power:** | 40x |
+| **Date:** | 8-20-24 |
+| **Time:** | 10:41pm EST |
+| **Est. P.A.:** | 290 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Another golden pair. Their separation is so far I thought Alpha 2 was the primary because of a very faint star near that one in the EP. The true pair is just very far apart.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

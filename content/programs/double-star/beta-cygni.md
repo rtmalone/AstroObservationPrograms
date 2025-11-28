@@ -15,7 +15,7 @@ next_star_link: "../57-aquilae/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Beta Cygni
@@ -30,20 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Beta Cygni |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.12, -85.33 |
+| **Instrument:** | 1000/102mm Orion Refractor |
+| **Power:** | 40x |
+| **Date:** | 8-20-24 |
+| **Time:** | 9:42pm EST |
+| **Est. P.A.:** | 80 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+This is a wonderful pair! Alberio is clearly the larger of the pair and golden. It's secondary is also bright and colored blue.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Used an older refractor donated to the club which still performed well.

@@ -15,7 +15,7 @@ next_star_link: "../delta-bootis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Xi Bootis
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Xi Bootis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | e |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 34.63, -85.44 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 83x |
+| **Date:** | 5-29-24 |
+| **Time:** | 11:08pm EST |
+| **Est. P.A.:** | 280 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+A yellow pair which was easily split. Easy to see that separation at this power. Secondary is noticeably smaller
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

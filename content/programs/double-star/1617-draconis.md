@@ -15,7 +15,7 @@ next_star_link: "../mu-draconis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # 16/17 Draconis
@@ -30,20 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | 16/17 Draconis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.12, -85.33 |
+| **Instrument:** | 1300/102 Orion Apex Maksutov |
+| **Power:** | 144x |
+| **Date:** | 6-24-24 |
+| **Time:** | 11:06pm EST |
+| **Est. P.A.:** | 100 deg and 185 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Can distinguish the magnitude difference well. The primary pair is tight but is noticeably split. Visually the three stars are similar in color.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Really cool group on the EP. Two PAs measured since this group is three stars.

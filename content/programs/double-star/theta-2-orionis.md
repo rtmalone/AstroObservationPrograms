@@ -15,7 +15,7 @@ next_star_link: "../sigma-orionis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Theta 2 Orionis
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Theta 2 Orionis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 4 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102 (Orion Apex Maksutov) |
+| **Power:** | 144x |
+| **Date:** | 1-4-24 |
+| **Time:** | 10:06pm EST |
+| **Est. P.A.:** | 90 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Theta 2 falls away from Theta 1 and the nebula. The stars are white and nicely distantfrom each other with good magnitude for viewing.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

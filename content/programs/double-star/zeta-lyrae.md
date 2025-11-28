@@ -15,7 +15,7 @@ next_star_link: "../beta-lyrae/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Zeta Lyrae
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Zeta Lyrae |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 3+ |
+| **Lat/Lon:** | 34.12, -86.22 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 30x |
+| **Date:** | 10-12-24 |
+| **Time:** | 8:32pm EST |
+| **Est. P.A.:** | 145 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Bright pair easily separated at a low power. White in color.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

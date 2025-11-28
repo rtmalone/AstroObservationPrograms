@@ -15,7 +15,7 @@ next_star_link: "../32-camelopardalis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Gamma Virginis
@@ -30,14 +30,14 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Gamma Virginis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 4 |
+| **Lat/Lon:** | 34.63, -85.44 |
+| **Instrument:** | 750/150 Orion Starblast 6 |
+| **Power:** | 83x |
+| **Date:** | 5-29-24 |
+| **Time:** | 9:50pm EST |
+| **Est. P.A.:** | 10 deg |
 
 ## Observation Notes
 

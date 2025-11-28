@@ -15,7 +15,7 @@ next_star_link: "../psi-draconis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Nu Draconis
@@ -30,20 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Nu Draconis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 36.15, -85.32 |
+| **Instrument:** | 1300/102 (Orion Apex Maksutov) |
+| **Power:** | 144x |
+| **Date:** | 5-2-24 |
+| **Time:** | 12:36am EST |
+| **Est. P.A.:** | 300 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+This pair is identical in the EP. Confirmed by looking up the magnitudes! The star to the south looks slightly yellow and the other white. 
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+The primary was readily identifiable since the pair did not differ in size nor magnitude. Used the yellow southern star as primary.

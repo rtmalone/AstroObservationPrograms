@@ -15,7 +15,7 @@ next_star_link: "../n-hydrae-17-crateris/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # 54 Leonis
@@ -30,20 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | 54 Leonis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 36.15, -85.32 |
+| **Instrument:** | 1300/102 (Orion Apex Maksutov) |
+| **Power:** | 144x |
+| **Date:** | 5-1-24 |
+| **Time:** | 11:44pm EST |
+| **Est. P.A.:** | 115 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Small pair, both a little blue in color and sharp in the EP. Easily split.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Nice showpiece pair for star parties.

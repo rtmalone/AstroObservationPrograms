@@ -15,7 +15,7 @@ next_star_link: "../24-comae-berenices/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Delta Corvi
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Delta Corvi |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
+| **Seeing:** | G |
+| **Transparency:** | 3 |
 | **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 75x |
+| **Date:** | 5-28-24 |
+| **Time:** | 10:16pm EST |
+| **Est. P.A.:** | 225 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Primary is nice and bright, and it's pair is easily split with this scope and EP. Cool blue color in the primary.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

@@ -13,7 +13,7 @@ next_star_link: "../65-piscium/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Eta Cassiopeiae
@@ -27,19 +27,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Eta Cassiopeiae |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 3+ |
+| **Lat/Lon:** | 34.12, -86.22 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 83x |
+| **Date:** | 10-12-24 |
+| **Time:** | 8:55pm EST |
+| **Est. P.A.:** | 340 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+The primary star looked as though the color shifted at times due to an instable atmosphere. The star presented mostly white while the secondary was definitely gold. The secondary is much smaller and dimmer than primary.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

@@ -15,7 +15,7 @@ next_star_link: "../alpha-librae/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Epsilon Bootis
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Epsilon Bootis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 34.63, -85.44 |
+| **Instrument:** | 750/150 Orion Starblast 6 |
+| **Power:** | 83x |
+| **Date:** | 5-29-24 |
+| **Time:** | 10:49pm EST |
+| **Est. P.A.:** | 355 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Yellow pair which was very hard to split. Moments of calm in the atmosphere helped see the pair. Secondary is noticeably smaller in size
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

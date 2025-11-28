@@ -15,7 +15,7 @@ next_star_link: "../4041-draconis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Psi Draconis
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Psi Draconis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 5+ |
+| **Lat/Lon:** | 35.12, -85.33 |
+| **Instrument:** | 1300/102 Orion Apex Maksutov |
+| **Power:** | 144x |
+| **Date:** | 6-24-24 |
+| **Time:** | 10:12pm EST |
+| **Est. P.A.:** | 35 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Nicely separated pair with both a low and high power EP. The primary is easily distinguished; both are white in color.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

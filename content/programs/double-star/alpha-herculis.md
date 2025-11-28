@@ -15,7 +15,7 @@ next_star_link: "../delta-herculis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Alpha Herculis
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Alpha Herculis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.12, -85.33 |
+| **Instrument:** | 1300/102 Orion Apex Maksutov |
+| **Power:** | 144x |
+| **Date:** | 6-24-24 |
+| **Time:** | 11:42pm EST |
+| **Est. P.A.:** | 120 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Golden pair in Hercules. Distinctly golden. While still very close at this power, the stars are still split.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

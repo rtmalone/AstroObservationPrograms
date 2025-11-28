@@ -15,7 +15,7 @@ next_star_link: "../xi-scorpii/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Zeta Corona Borealis
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Zeta Corona Borealis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 34.63, -85.44 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 83x |
+| **Date:** | 5-29-24 |
+| **Time:** | 11:53pm EST |
+| **Est. P.A.:** | 290 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Cool white pair which was nice and sharp in the EP. The secondary is slightly smaller than primary.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

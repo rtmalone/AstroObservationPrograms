@@ -15,7 +15,7 @@ next_star_link: "../iota-orionis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Theta 1 Orionis
@@ -30,20 +30,20 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Theta 1 Orionis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 4 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102 (Orion Apex Maksutov) |
+| **Power:** | 144x |
+| **Date:** | 1-4-24 |
+| **Time:** | 9:58pm EST |
 | **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+The four stars of Theta 1 are nice and sharp and bluish white. Partly that color because of the nebula cloud?
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Was initially unsure about which star to calculate PA with. Had to ask the program director how to figure that out when the "double" star contains more than two stars in the group.
 

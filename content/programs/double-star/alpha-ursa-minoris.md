@@ -15,7 +15,7 @@ next_star_link: "../gamma-ceti/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Alpha Ursa Minoris
@@ -30,20 +30,18 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Alpha Ursa Minoris |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
+| **Seeing:** | G |
+| **Transparency:** | 4 |
 | **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Instrument:** | 1300/102 (Orion Apex Maksutov) |
+| **Power:** | 130x |
+| **Date:** | 5-11-24 |
+| **Time:** | 9:38pm EST |
+| **Est. P.A.:** | 182 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+The seeing really messed with finding the secondary star. Had to measure direction by using the drift method. My est. PA was far off initially. I think it's because celestial north as more counterclockwise than I thought.
