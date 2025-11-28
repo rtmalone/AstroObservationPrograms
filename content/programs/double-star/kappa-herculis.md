@@ -15,7 +15,7 @@ next_star_link: "../nu-scorpii/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Kappa Herculis
@@ -30,20 +30,20 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Kappa Herculis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 35.16, -85.37 |
+| **Instrument:** | 750/150 (Orion Starblast 6) |
+| **Power:** | 106x |
+| **Date:** | 7-11-23 |
+| **Time:** | 10:59pm EST |
+| **Est. P.A.:** | 20 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Kappa 1 and Kappa 2 are closer together than most I observed so far. They appear slightly smaller too making the difference on magnitude harder to define, but not impossible. Kappa 1 is above. Kappa 2 below and slightly to the left
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Sparse starfield but bright stars
 

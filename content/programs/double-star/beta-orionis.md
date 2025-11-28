@@ -15,7 +15,7 @@ next_star_link: "../118-tauri/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Beta Orionis
@@ -30,20 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Beta Orionis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102 (Orion Apex Maksutov) |
+| **Power:** | 130x |
+| **Date:** | 12-31-23 |
+| **Time:** | 11:40pm EST |
+| **Est. P.A.:** | 200 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Very hard pair to split since Beta 1 is so brightand Beta 2 is so close.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Only a couple other very faint stars in FOV with this power and scope.

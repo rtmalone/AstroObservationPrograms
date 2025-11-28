@@ -15,7 +15,7 @@ next_star_link: "../theta-2-orionis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Iota Orionis
@@ -30,20 +30,20 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Iota Orionis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102|
+| **Power:** | 130x |
+| **Date:** | 12-31-23 |
+| **Time:** | 11:52pm EST |
+| **Est. P.A.:** | 150 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Main star of the pair is noticeably blue. Split the pair easily. 
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Many stars in the surrounding starfield.
 

@@ -15,7 +15,7 @@ next_star_link: "../struve-2404/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Beta Lyrae
@@ -30,20 +30,20 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Beta Lyrae |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 35.16, -85.37 |
+| **Instrument:** | 750/150 (Orion Starblast 6) |
+| **Power:** | 106x |
+| **Date:** | 7-11-23 |
+| **Time:** | 9:46pm EST |
 | **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Beta 1 is nice an bright with Beta 2 above and to the left in the EP. Sparse surrounding starfield.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+At the time of observation the sky wasn't completely dark
 

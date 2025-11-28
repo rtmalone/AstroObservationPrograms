@@ -32,7 +32,7 @@ observed: false
 | **Object Name:** | Alpha Leonis |
 | **Seeing:** | *(1-10, 10 being perfect)* |
 | **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
+| **Lat/Lon:** | 35.16, -85.37 |
 | **Instrument:** | *(Telescope/binoculars used)* |
 | **Power:** | *(Magnification used)* |
 | **Date:** | *(YYYY-MM-DD)* |

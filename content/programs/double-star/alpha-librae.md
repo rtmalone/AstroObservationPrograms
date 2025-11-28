@@ -15,7 +15,7 @@ next_star_link: "../xi-bootis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Alpha Librae
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Alpha Librae |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.16, -85.37 |
+| **Instrument:** | 750/150mm (Orion Starblast 6) |
+| **Power:** | 47x |
+| **Date:** | 6-27-23 |
+| **Time:** | 10:39pm Est |
+| **Est. P.A.:** |  |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Easy enough to find in the constellation. Main star of the pair is above to the right.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

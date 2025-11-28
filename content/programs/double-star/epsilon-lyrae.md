@@ -15,7 +15,7 @@ next_star_link: "../zeta-lyrae/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Epsilon Lyrae
@@ -30,20 +30,20 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Epsilon Lyrae |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.16, -85.37 |
+| **Instrument:** | 750/150mm (Orion Starblast 6) |
+| **Power:** | 75x |
+| **Date:** | 6-27-23 |
+| **Time:** | 9:51pm EST|
 | **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Epsilon 1 is on the left and Epsilon 2 on the right. Hard to visually see a difference in magnitude.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Surprised this pair was so far apart even with a 25mm EP
 

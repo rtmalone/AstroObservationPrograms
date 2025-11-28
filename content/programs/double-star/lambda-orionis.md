@@ -1,5 +1,5 @@
 ---
-title: "Lamda Orionis"
+title: "Lambda Orionis"
 constellation: "Orion"
 difficulty: "Moderate"
 ra: "05h 35m.1"
@@ -15,7 +15,7 @@ next_star_link: "../theta-1-orionis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Lamda Orionis
@@ -29,20 +29,20 @@ observed: false
 
 |  |  |
 |-------|------|
-| **Object Name:** | Lamda Orionis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Object Name:** | Lambda Orionis |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102 (Orion Apex Maksutov) |
+| **Power:** | 130x |
+| **Date:** | 12-31-23 |
+| **Time:** | 11:21pm EST |
+| **Est. P.A.:** | 35 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+The pair are very close in the eyepiece. Their color is the same. Lambda 2 appears about halk the size of Lambda 1, but both are relatively small stars.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

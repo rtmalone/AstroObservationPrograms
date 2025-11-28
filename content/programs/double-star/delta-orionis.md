@@ -15,7 +15,7 @@ next_star_link: "../struve-747/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
 ---
 
 # Delta Orionis
@@ -30,19 +30,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Delta Orionis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | *(Observation location)* |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 130x |
+| **Date:** | 12-32-23 |
+| **Time:** | 1103:pm Est |
+| **Est. P.A.:** | 0 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Large difference in magnitude between Delta 1 & Delta 2. Delta 2 seems to be pointed directly at north. At most maybe 1 or 2 degrees to the west.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*
