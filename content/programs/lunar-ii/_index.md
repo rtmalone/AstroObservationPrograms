@@ -1,8 +1,9 @@
 ---
 title: "Lunar II Program"
 progress: "0/100 features observed"
-image: "/images/placeholder-lunar.svg"
+image: "/images/placeholder-lunar.png"
 summary: "Advanced lunar observing requiring 100 additional challenging features. Focus on smaller craters, domes, rilles, and subtle formations. Lunar I completion required."
+hasSketchOrImage: true
 ---
 
 The Lunar II Program is the advanced continuation of the Lunar I Program, requiring observation of an additional 100 more challenging lunar features. This program focuses on smaller, more subtle features that require careful observation and good seeing conditions.
@@ -20,66 +21,37 @@ The Lunar II Program is the advanced continuation of the Lunar I Program, requir
 Currently observed: 0/100 features (0%)
 *Note: Lunar I Program must be completed first*
 
-## Target Features
+## Complete Lunar II Target List
 
-### Challenging Craters
-- [ ] Messier A & B (twin craters)
-- [ ] Linné (controversial crater)
-- [ ] Hyginus
-- [ ] Triesnecker
-- [ ] Boscovich
-- [ ] Julius Caesar
-- [ ] Agrippa
-- [ ] Godin
-- [ ] Lade
-- [ ] Arago
+Below are all 100 lunar features in the program:
 
-### Crater Chains & Complex Features
-- [ ] Catena Davy (Davy crater chain)
-- [ ] Hyginus Rille
-- [ ] Triesnecker Rille system
-- [ ] Ariadaeus Rille
-- [ ] Hadley Rille (Apollo 15 landing site)
+### Current Targets
+- [Hyginus Rille](hyginus-rille/)
 
-### Domes & Subtle Features
-- [ ] Hortensius dome field
-- [ ] Milichius domes
-- [ ] Cauchy dome and fault
-- [ ] Kies dome
-- [ ] Various low-relief domes
+### Additional Program Targets
+- Messier A & B (twin craters)
+- Linné (controversial crater)
+- Hyginus
+- Triesnecker
+- Boscovich
+- Julius Caesar
+- Agrippa
+- Godin
+- Lade
+- Arago
+- Catena Davy (Davy crater chain)
+- Triesnecker Rille system
+- Ariadaeus Rille
+- Hadley Rille (Apollo 15 landing site)
+- Hortensius dome field
+- Milichius domes
+- Cauchy dome and fault
+- Kies dome
+- Mons Pico (isolated peak)
+- Mons Piton (isolated peak)
+- Beta peak in Mare Serenitatis
+- Laplace Promontory
+- Cape Heraclides
+- Serpentine Ridge (Mare Serenitatis)
 
-### Mountain Peaks & Isolated Features
-- [ ] Mons Pico (isolated peak)
-- [ ] Mons Piton (isolated peak)
-- [ ] Beta peak in Mare Serenitatis
-- [ ] Laplace Promontory
-- [ ] Cape Heraclides
-
-### Wrinkle Ridges & Linear Features
-- [ ] Serpentine Ridge (Mare Serenitatis)
-- [ ] Various wrinkle ridges in maria
-- [ ] Fault systems and scarps
-
-## Observation Challenges
-
-- Many features require excellent seeing conditions
-- Optimal lighting angles are critical for visibility
-- Some features are only visible under specific illumination
-- Requires patience and multiple observation sessions
-- Sketching skills become more important for documentation
-
-## Equipment Recommendations
-
-- Minimum 6" telescope recommended
-- 8" or larger preferred for challenging features
-- High-quality eyepieces for sharp views
-- Stable mount essential for high magnification work
-- Detailed lunar atlas required for feature identification
-
-## Observation Strategy
-
-- Plan observations around optimal lighting for specific features
-- Use multiple magnifications to study feature details
-- Take advantage of excellent seeing nights
-- Consider lunar photography to supplement visual observations
-- Keep detailed observation logs with sketches
+*Note: This is a partial list. The complete Lunar II program includes 100 features.*

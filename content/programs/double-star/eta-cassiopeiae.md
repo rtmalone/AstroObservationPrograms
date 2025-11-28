@@ -1,5 +1,4 @@
 ---
-image: "/images/placeholder-double-star.svg"
 title: "Eta Cassiopeiae"
 constellation: "Cassiopeia"
 difficulty: "Easy"
@@ -9,14 +8,12 @@ magnitude: "3.5, 7.4"
 separation: "13.4"
 position_angle: "326°"
 last_measure: "2019"
-observed: false
-observation_date: "
-notes: "
-star_number: 1
-total_stars: 100
 next_star: "65 Piscium"
 next_star_link: "../65-piscium/"
 program_link: "../"
+program_name: "Double Star Program"
+image: "/images/placeholder-double-star.svg"
+observed: false
 ---
 
 # Eta Cassiopeiae
@@ -27,18 +24,17 @@ program_link: "../"
 
 ## My Observation Details
 
-| Field | Data |
+|  |  |
 |-------|------|
-| **Object Name** | Eta Cassiopeiae |
-| **Seeing** | *(1-10, 10 being perfect)* |
-| **Transparency** | *(Limiting magnitude)* |
-| **Lat/Lon** | *(Observation location)* |
-| **Instrument** | *(Telescope/binoculars used)* |
-| **Power** | *(Magnification used)* |
-| **Date** | *(YYYY-MM-DD)* |
-| **Time** | *(Local time)* |
-| **Description** | *(Visual impression, colors, contrast)* |
-| **Est. P.A.** | *(Estimated position angle)* |
+| **Object Name:** | Eta Cassiopeiae |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | *(Observation location)* |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
+| **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 

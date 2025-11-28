@@ -1,5 +1,4 @@
 ---
-image: "/images/placeholder-double-star.svg"
 title: "Rho Herculis"
 constellation: "Hercules"
 difficulty: "Moderate"
@@ -9,16 +8,14 @@ magnitude: "4.5, 5.4"
 separation: "4.1"
 position_angle: "321°"
 last_measure: "2019"
-observed: false
-observation_date: "
-notes: "
-star_number: 73
-total_stars: 100
 prev_star: "Omicron Ophiuchi"
 prev_star_link: "../omicron-ophiuchi/"
 next_star: "Nu Draconis"
 next_star_link: "../nu-draconis/"
 program_link: "../"
+program_name: "Double Star Program"
+image: "/images/placeholder-double-star.svg"
+observed: false
 ---
 
 # Rho Herculis
@@ -30,18 +27,17 @@ program_link: "../"
 
 ## My Observation Details
 
-| Field | Data |
+|  |  |
 |-------|------|
-| **Object Name** | Rho Herculis |
-| **Seeing** | *(1-10, 10 being perfect)* |
-| **Transparency** | *(Limiting magnitude)* |
-| **Lat/Lon** | *(Observation location)* |
-| **Instrument** | *(Telescope/binoculars used)* |
-| **Power** | *(Magnification used)* |
-| **Date** | *(YYYY-MM-DD)* |
-| **Time** | *(Local time)* |
-| **Description** | *(Visual impression, colors, contrast)* |
-| **Est. P.A.** | *(Estimated position angle)* |
+| **Object Name:** | Rho Herculis |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | *(Observation location)* |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
+| **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 

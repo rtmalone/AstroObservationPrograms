@@ -1,5 +1,4 @@
 ---
-image: "/images/placeholder-double-star.svg"
 title: "Struve 2404"
 constellation: "Various"
 difficulty: "Challenging"
@@ -9,16 +8,14 @@ magnitude: "6.9, 7.8"
 separation: "3.6"
 position_angle: "180°"
 last_measure: "2020"
-observed: false
-observation_date: "
-notes: "
-star_number: 82
-total_stars: 100
 prev_star: "Beta Lyrae"
 prev_star_link: "../beta-lyrae/"
 next_star: "Otto Struve 525"
 next_star_link: "../otto-struve-525/"
 program_link: "../"
+program_name: "Double Star Program"
+image: "/images/placeholder-double-star.svg"
+observed: false
 ---
 
 # Struve 2404
@@ -30,18 +27,17 @@ program_link: "../"
 
 ## My Observation Details
 
-| Field | Data |
+|  |  |
 |-------|------|
-| **Object Name** | Struve 2404 |
-| **Seeing** | *(1-10, 10 being perfect)* |
-| **Transparency** | *(Limiting magnitude)* |
-| **Lat/Lon** | *(Observation location)* |
-| **Instrument** | *(Telescope/binoculars used)* |
-| **Power** | *(Magnification used)* |
-| **Date** | *(YYYY-MM-DD)* |
-| **Time** | *(Local time)* |
-| **Description** | *(Visual impression, colors, contrast)* |
-| **Est. P.A.** | *(Estimated position angle)* |
+| **Object Name:** | Struve 2404 |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | *(Observation location)* |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
+| **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 

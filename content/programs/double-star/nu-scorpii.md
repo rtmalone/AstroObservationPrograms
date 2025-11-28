@@ -1,5 +1,4 @@
 ---
-image: "/images/placeholder-double-star.svg"
 title: "Nu Scorpii"
 constellation: "Scorpius"
 difficulty: "Easy"
@@ -9,16 +8,14 @@ magnitude: "4.4, 6.6"
 separation: "41.3"
 position_angle: "336°"
 last_measure: "2019"
-observed: false
-observation_date: "
-notes: "
-star_number: 65
-total_stars: 100
 prev_star: "Kappa Herculis"
 prev_star_link: "../kappa-herculis/"
 next_star: "Sigma Corona Borealis"
 next_star_link: "../sigma-corona-borealis/"
 program_link: "../"
+program_name: "Double Star Program"
+image: "/images/placeholder-double-star.svg"
+observed: false
 ---
 
 # Nu Scorpii
@@ -30,18 +27,17 @@ program_link: "../"
 
 ## My Observation Details
 
-| Field | Data |
+|  |  |
 |-------|------|
-| **Object Name** | Nu Scorpii |
-| **Seeing** | *(1-10, 10 being perfect)* |
-| **Transparency** | *(Limiting magnitude)* |
-| **Lat/Lon** | *(Observation location)* |
-| **Instrument** | *(Telescope/binoculars used)* |
-| **Power** | *(Magnification used)* |
-| **Date** | *(YYYY-MM-DD)* |
-| **Time** | *(Local time)* |
-| **Description** | *(Visual impression, colors, contrast)* |
-| **Est. P.A.** | *(Estimated position angle)* |
+| **Object Name:** | Nu Scorpii |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | *(Observation location)* |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
+| **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 

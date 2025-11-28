@@ -1,5 +1,4 @@
 ---
-image: "/images/placeholder-double-star.svg"
 title: "Alpha Piscium"
 constellation: "Pisces"
 difficulty: "Challenging"
@@ -9,16 +8,14 @@ magnitude: "4.1, 5.2"
 separation: "1.9"
 position_angle: "264°"
 last_measure: "2019"
-observed: false
-observation_date: "
-notes: "
-star_number: 7
-total_stars: 100
 prev_star: "Lambda Arietis"
 prev_star_link: "../lambda-arietis/"
 next_star: "Gamma Andromedae"
 next_star_link: "../gamma-andromedae/"
 program_link: "../"
+program_name: "Double Star Program"
+image: "/images/placeholder-double-star.svg"
+observed: false
 ---
 
 # Alpha Piscium
@@ -30,18 +27,17 @@ program_link: "../"
 
 ## My Observation Details
 
-| Field | Data |
+|  |  |
 |-------|------|
-| **Object Name** | Alpha Piscium |
-| **Seeing** | *(1-10, 10 being perfect)* |
-| **Transparency** | *(Limiting magnitude)* |
-| **Lat/Lon** | *(Observation location)* |
-| **Instrument** | *(Telescope/binoculars used)* |
-| **Power** | *(Magnification used)* |
-| **Date** | *(YYYY-MM-DD)* |
-| **Time** | *(Local time)* |
-| **Description** | *(Visual impression, colors, contrast)* |
-| **Est. P.A.** | *(Estimated position angle)* |
+| **Object Name:** | Alpha Piscium |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | *(Observation location)* |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
+| **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 

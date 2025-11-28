@@ -1,5 +1,4 @@
 ---
-image: "/images/placeholder-double-star.svg"
 title: "Alpha Canum Venaticorum"
 constellation: "Canes Venatici"
 difficulty: "Easy"
@@ -9,16 +8,14 @@ magnitude: "2.9, 5.5"
 separation: "19.5"
 position_angle: "230°"
 last_measure: "2018"
-observed: false
-observation_date: "
-notes: "
-star_number: 49
-total_stars: 100
 prev_star: "32 Camelopardalis"
 prev_star_link: "../32-camelopardalis/"
 next_star: "Zeta Ursa Majoris"
 next_star_link: "../zeta-ursa-majoris/"
 program_link: "../"
+program_name: "Double Star Program"
+image: "/images/placeholder-double-star.svg"
+observed: false
 ---
 
 # Alpha Canum Venaticorum
@@ -30,18 +27,17 @@ program_link: "../"
 
 ## My Observation Details
 
-| Field | Data |
+|  |  |
 |-------|------|
-| **Object Name** | Alpha Canum Venaticorum |
-| **Seeing** | *(1-10, 10 being perfect)* |
-| **Transparency** | *(Limiting magnitude)* |
-| **Lat/Lon** | *(Observation location)* |
-| **Instrument** | *(Telescope/binoculars used)* |
-| **Power** | *(Magnification used)* |
-| **Date** | *(YYYY-MM-DD)* |
-| **Time** | *(Local time)* |
-| **Description** | *(Visual impression, colors, contrast)* |
-| **Est. P.A.** | *(Estimated position angle)* |
+| **Object Name:** | Alpha Canum Venaticorum |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | *(Observation location)* |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
+| **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 

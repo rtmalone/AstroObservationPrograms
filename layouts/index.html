@@ -5,7 +5,9 @@
     
     <h2>Recent Observations</h2>
     <div class="observation-grid">
-        {{ range first 6 (where .Site.RegularPages "Section" "observations") }}
+        {{ $allPages := where .Site.RegularPages "Section" "in" (slice "programs") }}
+        {{ $observedPages := where $allPages ".Params.date" "!=" nil }}
+        {{ range first 6 $observedPages.ByDate.Reverse }}
         <article class="program-card">
             {{ if .Params.image }}
             <a href="{{ .Permalink }}">
@@ -14,8 +16,8 @@
             {{ end }}
             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
             <time>{{ .Date.Format "January 2, 2006" }}</time>
-            {{ if .Params.progress }}
-            <p>Progress: {{ .Params.progress }}</p>
+            {{ if .Parent }}
+            <p><em>{{ .Parent.Title }}</em></p>
             {{ end }}
         </article>
         {{ end }}

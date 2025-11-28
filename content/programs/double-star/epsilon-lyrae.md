@@ -1,5 +1,4 @@
 ---
-image: "/images/placeholder-double-star.svg"
 title: "Epsilon Lyrae"
 constellation: "Lyra"
 difficulty: "Challenging"
@@ -9,16 +8,14 @@ magnitude: "5.6, 6.1; 5.3, 5.4"
 separation: "2.2, 210.0, 2.4"
 position_angle: "345°, 172°, 74°"
 last_measure: "2019"
-observed: false
-observation_date: "
-notes: "
-star_number: 79
-total_stars: 100
 prev_star: "70 Ophiuchi"
 prev_star_link: "../70-ophiuchi/"
 next_star: "Zeta Lyrae"
 next_star_link: "../zeta-lyrae/"
 program_link: "../"
+program_name: "Double Star Program"
+image: "/images/placeholder-double-star.svg"
+observed: false
 ---
 
 # Epsilon Lyrae
@@ -30,18 +27,17 @@ program_link: "../"
 
 ## My Observation Details
 
-| Field | Data |
+|  |  |
 |-------|------|
-| **Object Name** | Epsilon Lyrae |
-| **Seeing** | *(1-10, 10 being perfect)* |
-| **Transparency** | *(Limiting magnitude)* |
-| **Lat/Lon** | *(Observation location)* |
-| **Instrument** | *(Telescope/binoculars used)* |
-| **Power** | *(Magnification used)* |
-| **Date** | *(YYYY-MM-DD)* |
-| **Time** | *(Local time)* |
-| **Description** | *(Visual impression, colors, contrast)* |
-| **Est. P.A.** | *(Estimated position angle)* |
+| **Object Name:** | Epsilon Lyrae |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | *(Observation location)* |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
+| **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 

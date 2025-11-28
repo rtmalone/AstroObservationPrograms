@@ -3,6 +3,7 @@ title: "Double Star Program"
 progress: "0/100 pairs observed"
 image: "/images/placeholder-double-star.svg"
 summary: "Observe 100 double and multiple star systems to explore stellar companions. Successfully split pairs and record their separations, position angles, and colors."
+hasSketchOrImage: true
 ---
 
 The Astronomical League's Double Star Program introduces observers to the fascinating world of binary and multiple star systems. This program requires observation of 100 double and multiple star systems, showcasing the beauty and diversity of stellar companions.
@@ -17,15 +18,17 @@ The Astronomical League's Double Star Program introduces observers to the fascin
 
 ## Complete Double Star List
 
-Below are all 100 double stars in the program, organized by right ascension:
+Below are all 100 double stars in the program, organized by the month when they are best visible in the evening sky (around 9 PM):
 
-### Early Evening Sky (0h - 6h)
+### November Evening Sky (R.A. 0h - 2h)
 - [Eta Cassiopeiae](eta-cassiopeiae/) - 00h 49m.1, +57° 49' (13.4")
 - [65 Piscium](65-piscium/) - 00h 49m.9, +27° 43' (4.4")
 - [Psi 1 Piscium](psi-1-piscium/) - 01h 05m.6, +21° 28' (29.8")
 - [Zeta Piscium](zeta-piscium/) - 01h 13m.7, +07° 35' (22.8")
 - [Gamma Arietis](gamma-arietis/) - 01h 53m.5, +19° 18' (7.4")
 - [Lambda Arietis](lambda-arietis/) - 01h 57m.9, +23° 36' (37.3")
+
+### December Evening Sky (R.A. 2h - 4h)
 - [Alpha Piscium](alpha-piscium/) - 02h 02m.0, +02° 46' (1.9")
 - [Gamma Andromedae](gamma-andromedae/) - 02h 03m.9, +42° 20' (9.6")
 - [Iota Trianguli](iota-trianguli/) - 02h 12m.4, +30° 18' (4.0")
@@ -34,6 +37,8 @@ Below are all 100 double stars in the program, organized by right ascension:
 - [Eta Persei](eta-persei/) - 02h 50m.7, +55° 54' (28.7")
 - [Struve 331](struve-331/) - 03h 00m.9, +52° 21' (12.0")
 - [32 Eridani](32-eridani/) - 03h 54m.3, -02° 57' (6.9")
+
+### January Evening Sky (R.A. 4h - 6h)
 - [Chi Tauri](chi-tauri/) - 04h 22m.6, +25° 38' (19.4")
 - [1 Camelopardalis](1-camelopardalis/) - 04h 32m.0, +53° 55' (10.4")
 - [55 Eridani](55-eridani/) - 04h 43m.6, -08° 48' (9.3")
@@ -50,7 +55,7 @@ Below are all 100 double stars in the program, organized by right ascension:
 - [Gamma Leporis](gamma-leporis/) - 05h 44m.5, -22° 27' (95.5")
 - [Theta Aurigae](theta-aurigae/) - 05h 59m.7, +37° 13' (4.2")
 
-### Late Evening Sky (6h - 12h)
+### February Evening Sky (R.A. 6h - 8h)
 - [Epsilon Monocerotis](epsilon-monocerotis/) - 06h 23m.8, +04° 36' (12.2")
 - [Beta Monocerotis](beta-monocerotis/) - 06h 28m.8, -07° 02' (Multiple)
 - [12 Lyncis](12-lyncis/) - 06h 46m.2, +59° 27' (8.9")
@@ -59,21 +64,27 @@ Below are all 100 double stars in the program, organized by right ascension:
 - [19 Lyncis](19-lyncis/) - 07h 22m.9, +55° 17' (13.8")
 - [Alpha Geminorum](alpha-geminorum/) - 07h 34m.6, +31° 53' (5.5")
 - [k Puppis (HR2948)](k-puppis-hr2948-not-kappa/) - 07h 38m.8, -26° 48' (9.9")
+
+### March Evening Sky (R.A. 8h - 10h)
 - [Zeta Cancri](zeta-cancri/) - 08h 12m.2, +17° 39' (6.2")
 - [Iota Cancri](iota-cancri/) - 08h 46m.7, +28° 46' (30.7")
 - [38 Lyncis](38-lyncis/) - 09h 18m.8, +36° 48' (2.6")
+
+### April Evening Sky (R.A. 10h - 12h)
 - [Alpha Leonis](alpha-leonis/) - 10h 08m.4, +11° 58' (179.2")
 - [Gamma Leonis](gamma-leonis/) - 10h 20m.0, +19° 50' (4.7")
 - [54 Leonis](54-leonis/) - 10h 55m.6, +24° 45' (6.8")
 - [N Hydrae (17 Crateris)](n-hydrae-17-crateris/) - 11h 32m.3, -29° 16' (9.6")
 
-### Midnight Sky (12h - 18h)
+### May Evening Sky (R.A. 12h - 14h)
 - [Delta Corvi](delta-corvi/) - 12h 29m.9, -16° 31' (24.2")
 - [24 Comae Berenices](24-comae-berenices/) - 12h 35m.1, +18° 23' (20.2")
 - [Gamma Virginis](gamma-virginis/) - 12h 41m.7, -01° 27' (3.0")
 - [32 Camelopardalis](32-camelopardalis/) - 12h 49m.2, +83° 25' (21.8")
 - [Alpha Canum Venaticorum](alpha-canum-venaticorum/) - 12h 56m.0, +38° 19' (19.5")
 - [Zeta Ursa Majoris](zeta-ursa-majoris/) - 13h 23m.9, +54° 56' (Multiple)
+
+### June Evening Sky (R.A. 14h - 16h)
 - [Kappa Bootis](kappa-bootis/) - 14h 13m.5, +51° 47' (13.8")
 - [Iota Bootis](iota-bootis/) - 14h 16m.2, +51° 22' (39.0")
 - [Pi Bootis](pi-bootis/) - 14h 40m.7, +16° 25' (5.4")
@@ -84,6 +95,8 @@ Below are all 100 double stars in the program, organized by right ascension:
 - [Mu Bootis](mu-bootis/) - 15h 24m.5, +37° 23' (109")
 - [Delta Serpentis](delta-serpentis/) - 15h 34m.8, +10° 32' (4.0")
 - [Zeta Corona Borealis](zeta-corona-borealis/) - 15h 39m.4, +36° 38' (6.3")
+
+### July Evening Sky (R.A. 16h - 18h)
 - [Xi Scorpii](xi-scorpii/) - 16h 04m.4, -11° 22' (7.2")
 - [Struve 1999](struve-1999/) - 16h 04m.4, -11° 27' (11.9")
 - [Beta Scorpii](beta-scorpii/) - 16h 05m.4, -19° 48' (13.4")
@@ -100,7 +113,7 @@ Below are all 100 double stars in the program, organized by right ascension:
 - [Nu Draconis](nu-draconis/) - 17h 32m.2, +55° 11' (62.1")
 - [Psi Draconis](psi-draconis/) - 17h 41m.9, +72° 09' (29.6")
 
-### Late Night Sky (18h - 24h)
+### August Evening Sky (R.A. 18h - 20h)
 - [40/41 Draconis](4041-draconis/) - 18h 00m.2, +80° 00' (18.7")
 - [95 Herculis](95-herculis/) - 18h 01m.5, +21° 36' (6.4")
 - [70 Ophiuchi](70-ophiuchi/) - 18h 05m.5, +02° 30' (6.6")
@@ -112,6 +125,8 @@ Below are all 100 double stars in the program, organized by right ascension:
 - [Theta Serpentis](theta-serpentis/) - 18h 56m.2, +04° 12' (22.4")
 - [Beta Cygni](beta-cygni/) - 19h 30m.7, +27° 58' (34.6")
 - [57 Aquilae](57-aquilae/) - 19h 54m.6, -08° 14' (36.3")
+
+### September Evening Sky (R.A. 20h - 22h)
 - [31 Cygni](31-cygni/) - 20h 13m.6, +46° 44' (Multiple)
 - [Alpha Capricornus](alpha-capricornus/) - 20h 18m.1, -12° 33' (381.2")
 - [Beta Capricornus](beta-capricornus/) - 20h 21m.0, -14° 47' (205.4")
@@ -120,6 +135,8 @@ Below are all 100 double stars in the program, organized by right ascension:
 - [Beta Cephei](beta-cephei/) - 21h 28m.7, +70° 34' (13.5")
 - [Struve 2816](struve-2816/) - 21h 39m.0, +57° 29' (Multiple)
 - [Epsilon Pegasi](epsilon-pegasi/) - 21h 44m.2, +09° 53' (143.9")
+
+### October Evening Sky (R.A. 22h - 0h)
 - [Xi Cephei](xi-cephei/) - 22h 03m.8, +64° 38' (8.1")
 - [Zeta Aquarii](zeta-aquarii/) - 22h 28m.8, -00° 01' (2.4")
 - [Delta Cephei](delta-cephei/) - 22h 29m.2, +58° 25' (41.0")
@@ -153,5 +170,3 @@ Below are all 100 double stars in the program, organized by right ascension:
 ## Progress Tracking
 
 Currently observed: 0/100 pairs (0%)
-
-*Click on any star name above to view detailed information and record your observations.*

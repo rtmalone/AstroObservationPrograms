@@ -1,5 +1,6 @@
 ---
-title: "Observations"
+title: "All Observations"
 ---
 
-A collection of my astronomical observations and astrophotography.
+A chronological list of all my astronomical observations across all programs.
+

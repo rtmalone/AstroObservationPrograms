@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    
+    {{ $allPages := where .Site.RegularPages "Section" "in" (slice "programs") }}
+    {{ $observedPages := where $allPages ".Params.date" "!=" nil }}
+    {{ if gt (len $observedPages) 0 }}
+    <ul>
+        {{ range $observedPages.ByDate.Reverse }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a> - 
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            {{ if .Parent }}
+            <em>({{ .Parent.Title }})</em>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+    {{ else }}
+    <p><em>No observations recorded yet.</em></p>
+    {{ end }}
+</div>
+{{ end }}
+

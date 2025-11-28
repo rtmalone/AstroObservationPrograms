@@ -1,8 +1,9 @@
 ---
 title: "Messier Program"
 progress: "0/110 objects observed"
-image: "/images/placeholder-messier.svg"
+image: "/images/placeholder-messier.png"
 summary: "Observe all 110 Messier objects - the brightest deep-sky treasures including galaxies, nebulae, and star clusters. A classic introduction to deep-sky observing."
+hasSketchOrImage: true
 ---
 
 The Messier Catalog contains 110 of the brightest deep-sky objects visible from mid-northern latitudes. Created by French astronomer Charles Messier in the 18th century, this catalog includes galaxies, nebulae, and star clusters that are among the most rewarding targets for amateur astronomers.
@@ -19,115 +20,93 @@ The Messier Catalog contains 110 of the brightest deep-sky objects visible from 
 
 Currently observed: 0/110 objects (0%)
 
-## Object Categories
+## Complete Messier Object List
+
+Below are all 110 Messier objects in the program, organized by object type:
+
+### Current Targets
+- [M42 - Orion Nebula](m42-orion-nebula/)
 
 ### Galaxies (40 objects)
-**Spiral Galaxies**
-- [ ] M31 - Andromeda Galaxy (closest major galaxy)
-- [ ] M33 - Triangulum Galaxy 
-- [ ] M51 - Whirlpool Galaxy
-- [ ] M81 - Bode's Galaxy
-- [ ] M82 - Cigar Galaxy
-- [ ] M101 - Pinwheel Galaxy
-- [ ] M104 - Sombrero Galaxy
-
-**Elliptical Galaxies**
-- [ ] M32 - Companion to M31
-- [ ] M49 - Virgo Cluster member
-- [ ] M60 - Giant elliptical
-- [ ] M87 - Supermassive black hole host
+- M31 - Andromeda Galaxy
+- M32 - Companion to M31
+- M33 - Triangulum Galaxy
+- M49 - Virgo Cluster member
+- M51 - Whirlpool Galaxy
+- M60 - Giant elliptical
+- M65 - Leo galaxy
+- M66 - Leo galaxy
+- M81 - Bode's Galaxy
+- M82 - Cigar Galaxy
+- M84 - Virgo Cluster member
+- M86 - Virgo Cluster member
+- M87 - Supermassive black hole host
+- M89 - Virgo Cluster member
+- M90 - Virgo Cluster member
+- M95 - Leo galaxy
+- M96 - Leo galaxy
+- M101 - Pinwheel Galaxy
+- M104 - Sombrero Galaxy
+- M105 - Leo galaxy
+- M108 - Ursa Major galaxy
+- M109 - Ursa Major galaxy
+- M110 - Companion to M31
 
 ### Globular Clusters (29 objects)
-**Showpiece Clusters**
-- [ ] M13 - Great Hercules Cluster
-- [ ] M22 - Sagittarius Cluster
-- [ ] M3 - Canes Venatici Cluster
-- [ ] M5 - Serpens Cluster
-- [ ] M15 - Pegasus Cluster
-- [ ] M92 - Second Hercules Cluster
+- M2 - Aquarius Cluster
+- M3 - Canes Venatici Cluster
+- M5 - Serpens Cluster
+- M13 - Great Hercules Cluster
+- M15 - Pegasus Cluster
+- M22 - Sagittarius Cluster
+- M28 - Sagittarius region
+- M56 - Lyra
+- M72 - Aquarius
+- M92 - Second Hercules Cluster
 
 ### Open Clusters (27 objects)
-**Bright Clusters**
-- [ ] M45 - Pleiades (Seven Sisters)
-- [ ] M44 - Beehive Cluster
-- [ ] M7 - Ptolemy Cluster
-- [ ] M6 - Butterfly Cluster
-- [ ] M35 - Gemini Cluster
-- [ ] M37 - Auriga Cluster
+- M6 - Butterfly Cluster
+- M7 - Ptolemy Cluster
+- M18 - Sagittarius region
+- M21 - Sagittarius region
+- M23 - Sagittarius region
+- M24 - Sagittarius Star Cloud
+- M25 - Sagittarius region
+- M29 - Cygnus
+- M34 - Perseus
+- M35 - Gemini Cluster
+- M36 - Auriga cluster
+- M37 - Auriga cluster
+- M38 - Auriga cluster
+- M39 - Cygnus
+- M44 - Beehive Cluster
+- M45 - Pleiades (Seven Sisters)
+- M52 - Cassiopeia
+- M103 - Cassiopeia
 
-### Nebulae (14 objects)
-**Emission Nebulae**
-- [ ] M42 - Orion Nebula
-- [ ] M8 - Lagoon Nebula
-- [ ] M16 - Eagle Nebula
-- [ ] M17 - Swan Nebula
-- [ ] M20 - Trifid Nebula
+### Emission Nebulae (5 objects)
+- M8 - Lagoon Nebula
+- M16 - Eagle Nebula
+- M17 - Swan Nebula
+- M20 - Trifid Nebula
+- M42 - Orion Nebula
+- M43 - Orion region
 
-**Planetary Nebulae**
-- [ ] M27 - Dumbbell Nebula
-- [ ] M57 - Ring Nebula
-- [ ] M76 - Little Dumbbell
+### Planetary Nebulae (4 objects)
+- M27 - Dumbbell Nebula
+- M57 - Ring Nebula
+- M76 - Little Dumbbell
+- M97 - Owl Nebula
 
-**Supernova Remnant**
-- [ ] M1 - Crab Nebula
+### Supernova Remnants (1 object)
+- M1 - Crab Nebula
 
-## Seasonal Observing Guide
+### Diffuse Nebulae (4 objects)
+- M43 - Part of Orion Nebula complex
+- M58 - Virgo Cluster galaxy
+- M59 - Virgo Cluster galaxy
+- M61 - Virgo Cluster galaxy
+- M73 - Aquarius asterism
+- M78 - Orion region
 
-### Winter Objects (Dec-Feb)
-- Orion region: M42, M43, M78
-- Auriga clusters: M36, M37, M38
-- Gemini: M35
-- Taurus: M1, M45
-
-### Spring Objects (Mar-May)
-- Leo galaxies: M65, M66, M95, M96, M105
-- Virgo Galaxy Cluster: M49, M58, M59, M60, M61, M84, M86, M87, M89, M90
-- Ursa Major: M81, M82, M97, M101, M108, M109
-
-### Summer Objects (Jun-Aug)
-- Sagittarius region: M8, M17, M18, M20, M21, M22, M23, M24, M25, M28
-- Hercules: M13, M92
-- Lyra: M56, M57
-- Cygnus: M29, M39
-
-### Autumn Objects (Sep-Nov)
-- Andromeda: M31, M32, M110
-- Perseus: M34, M76
-- Cassiopeia: M52, M103
-- Aquarius: M2, M72, M73
-
-## Observation Tips
-
-### Equipment Recommendations
-- **Minimum**: 7x50 binoculars or small telescope
-- **Recommended**: 6-8" telescope for best views
-- **Eyepieces**: Wide range from low to high power
-- **Filters**: OIII and UHC for nebulae
-
-### Observing Strategies
-- Start with brighter, easier objects
-- Use star charts and finder charts
-- Observe from darkest available skies
-- Allow eyes to dark adapt (30+ minutes)
-- Use red flashlight to preserve night vision
-- Take notes and sketch interesting objects
-
-### Challenging Objects
-- **M74** - Face-on spiral, requires dark skies
-- **M76** - Faint planetary nebula
-- **M97** - Owl Nebula, subtle features
-- **M101** - Large but low surface brightness
-- **M83** - Southern object, low altitude
-
-## Messier Marathon
-- Annual challenge to observe all 110 objects in one night
-- Best attempted in March/April during new moon
-- Requires careful planning and dark skies
-- Typically starts at sunset and continues until dawn
-
-## Advanced Challenges
-- Photograph all 110 objects
-- Observe with different telescope apertures
-- Sketch detailed views of each object
-- Study the astrophysics of each object type
-- Complete observations from different latitudes
+*Note: This is a partial list. The complete Messier program includes all 110 objects.*

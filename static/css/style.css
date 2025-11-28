@@ -180,6 +180,69 @@ h3 {
     color: #b0c4de;
 }
 
+.progress-summary {
+    background-color: #1a1f3a;
+    border-radius: 8px;
+    padding: 0.75rem 1.5rem;
+    margin-bottom: 2rem;
+    border-left: 4px solid #6b9bd1;
+}
+
+.progress-summary p {
+    margin-bottom: 0.5rem;
+    color: #e0e0e0;
+    font-size: 1.1rem;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 15px;
+    background-color: #0a0e27;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 2px solid #2a3f5f;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #6b9bd1, #8bacd6);
+    transition: width 0.5s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 10px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.observed-badge {
+    display: inline-block;
+    background-color: #2d5016;
+    color: #90ee90;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin: 0.5rem 1rem;
+    border: 1px solid #3d7020;
+}
+
+.observed-date-badge {
+    display: inline-block;
+    background-color: #d4af37;
+    color: #0a0e27;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.observed-date-badge time {
+    color: #0a0e27;
+    font-size: 0.95rem;
+}
+
 .observation-layout {
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -294,6 +357,126 @@ a:hover {
     color: #8bacd6;
 }
 
+.observation-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.observation-item {
+    background-color: #1a1f3a;
+    border-radius: 8px;
+    padding: 1.5rem;
+    border-left: 4px solid #6b9bd1;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.observation-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 5px 20px rgba(107, 155, 209, 0.2);
+}
+
+.observation-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.observation-header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.observation-header h2 a {
+    color: #6b9bd1;
+    text-decoration: none;
+}
+
+.observation-header h2 a:hover {
+    color: #8bacd6;
+}
+
+.observation-header time {
+    color: #808080;
+    font-size: 0.95rem;
+    white-space: nowrap;
+}
+
+.observation-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #2a3f5f;
+}
+
+.meta-item {
+    color: #b0c4de;
+    font-size: 0.9rem;
+}
+
+.meta-item strong {
+    color: #8bacd6;
+}
+
+.meta-item a {
+    color: #6b9bd1;
+    text-decoration: none;
+}
+
+.meta-item a:hover {
+    color: #8bacd6;
+}
+
+.observation-details {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    gap: 1.5rem;
+    align-items: start;
+}
+
+.observation-thumbnail {
+    width: 150px;
+    height: 150px;
+}
+
+.observation-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    border: 2px solid #2a3f5f;
+}
+
+.observation-summary {
+    color: #b0c4de;
+}
+
+.observation-summary p {
+    margin: 0.5rem 0;
+}
+
+.observation-summary strong {
+    color: #8bacd6;
+}
+
+.read-more {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #6b9bd1;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.read-more:hover {
+    color: #8bacd6;
+}
+
 @media (max-width: 768px) {
     nav {
         flex-direction: column;
@@ -315,5 +498,21 @@ a:hover {
     
     .nav-prev, .nav-next, .nav-program {
         text-align: center;
+    }
+    
+    .observation-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .observation-details {
+        grid-template-columns: 1fr;
+    }
+    
+    .observation-thumbnail {
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+        margin: 0 auto;
     }
 }

@@ -1,5 +1,4 @@
 ---
-image: "/images/placeholder-double-star.svg"
 title: "k Puppis (HR2948) (not Kappa)"
 constellation: "Puppis"
 difficulty: "Moderate"
@@ -9,16 +8,14 @@ magnitude: "4.4, 4.6"
 separation: "9.9"
 position_angle: "318°"
 last_measure: "2016"
-observed: false
-observation_date: "
-notes: "
-star_number: 37
-total_stars: 100
 prev_star: "Alpha Geminorum"
 prev_star_link: "../alpha-geminorum/"
 next_star: "Zeta Cancri"
 next_star_link: "../zeta-cancri/"
 program_link: "../"
+program_name: "Double Star Program"
+image: "/images/placeholder-double-star.svg"
+observed: false
 ---
 
 # k Puppis (HR2948) (not Kappa)
@@ -30,18 +27,17 @@ program_link: "../"
 
 ## My Observation Details
 
-| Field | Data |
+|  |  |
 |-------|------|
-| **Object Name** | k Puppis (HR2948) (not Kappa) |
-| **Seeing** | *(1-10, 10 being perfect)* |
-| **Transparency** | *(Limiting magnitude)* |
-| **Lat/Lon** | *(Observation location)* |
-| **Instrument** | *(Telescope/binoculars used)* |
-| **Power** | *(Magnification used)* |
-| **Date** | *(YYYY-MM-DD)* |
-| **Time** | *(Local time)* |
-| **Description** | *(Visual impression, colors, contrast)* |
-| **Est. P.A.** | *(Estimated position angle)* |
+| **Object Name:** | k Puppis (HR2948) (not Kappa) |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | *(Observation location)* |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
+| **Est. P.A.:** | *(Estimated position angle)* |
 
 ## Observation Notes
 

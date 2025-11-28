@@ -1,0 +1,49 @@
+{{ define "main" }}
+<div class="content">
+    <h1>{{ .Title }}</h1>
+    
+    {{ if .RegularPages }}
+    {{ $totalPages := len .RegularPages }}
+    {{ $observedPages := 0 }}
+    {{ range .RegularPages }}
+        {{ if .Params.observed }}
+            {{ $observedPages = add $observedPages 1 }}
+        {{ end }}
+    {{ end }}
+    {{ $percentage := 0 }}
+    {{ if gt $totalPages 0 }}
+        {{ $percentage = div (mul $observedPages 100) $totalPages }}
+    {{ end }}
+    
+    <div class="progress-summary">
+        <p><strong>Progress:</strong> {{ $observedPages }}/{{ $totalPages }} features observed ({{ $percentage }}%)</p>
+        <div class="progress-bar">
+            <div class="progress-fill" style="width: {{ $percentage }}%"></div>
+        </div>
+    </div>
+    {{ end }}
+    
+    {{ .Content }}
+    
+    <div class="observation-grid">
+        {{ range .Pages }}
+        <article class="program-card">
+            {{ if .Params.image }}
+            <a href="{{ .Permalink }}">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+            </a>
+            {{ end }}
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{ if .Params.date }}
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+            {{ end }}
+            {{ if .Params.observed }}
+            <span class="observed-badge">✓ Observed</span>
+            {{ end }}
+            <p>{{ .Summary }}</p>
+        </article>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
+

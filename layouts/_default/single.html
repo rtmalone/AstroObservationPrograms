@@ -1,20 +1,20 @@
 {{ define "main" }}
 <article>
-    {{ if or .Params.prev_star .Params.next_star .Params.star_number }}
+    {{ if or .Params.prev_star .Params.next_star .Params.prev_feature .Params.next_feature .Params.star_number }}
     <nav class="page-navigation">
         <div class="nav-links">
-            {{ if .Params.prev_star }}
-            <a href="{{ .Params.prev_star_link }}" class="nav-prev">← {{ .Params.prev_star }}</a>
+            {{ if or .Params.prev_star .Params.prev_feature }}
+            <a href="{{ .Params.prev_star_link | default .Params.prev_feature_link }}" class="nav-prev">← {{ .Params.prev_star | default .Params.prev_feature }}</a>
             {{ else }}
             <span class="nav-spacer"></span>
             {{ end }}
             
             {{ if .Params.program_link }}
-            <a href="{{ .Params.program_link }}" class="nav-program">Double Star Program</a>
+            <a href="{{ .Params.program_link }}" class="nav-program">{{ .Params.program_name | default "Program" }}</a>
             {{ end }}
             
-            {{ if .Params.next_star }}
-            <a href="{{ .Params.next_star_link }}" class="nav-next">{{ .Params.next_star }} →</a>
+            {{ if or .Params.next_star .Params.next_feature }}
+            <a href="{{ .Params.next_star_link | default .Params.next_feature_link }}" class="nav-next">{{ .Params.next_star | default .Params.next_feature }} →</a>
             {{ else }}
             <span class="nav-spacer"></span>
             {{ end }}
@@ -22,24 +22,26 @@
     </nav>
     {{ end }}
     
-    {{ if .Params.date }}
-    <header>
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-    </header>
-    {{ end }}
-    
     <div class="content-body">
         <div class="observation-layout">
             <div class="content-text">
+                {{ if and .Params.observed .Params.date }}
+                <div class="observed-date-badge">
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">Observed: {{ .Date.Format "January 2, 2006" }}</time>
+                </div>
+                {{ end }}
                 {{ $content := .Content }}
                 {{ $parts := split $content "<hr>" }}
                 {{ if ge (len $parts) 2 }}
                 {{ index $parts 0 | safeHTML }}
                 <hr>
                     
-                    {{ if or .Params.constellation .Params.difficulty .Params.ra .Params.dec .Params.magnitude .Params.separation }}
+                    {{ if or .Params.constellation .Params.difficulty .Params.ra .Params.dec .Params.magnitude .Params.separation .Params.object_type .Params.size .Params.brightness }}
                     <div class="object-data-section">
                         <h3>Object Data</h3>
+                        {{ if .Params.object_type }}
+                        <p><strong>Object Type:</strong> {{ .Params.object_type }}</p>
+                        {{ end }}
                         {{ if .Params.constellation }}
                         <p><strong>Constellation:</strong> {{ .Params.constellation }}</p>
                         {{ end }}
@@ -54,6 +56,12 @@
                         {{ end }}
                         {{ if .Params.magnitude }}
                         <p><strong>Magnitude:</strong> {{ .Params.magnitude }}</p>
+                        {{ end }}
+                        {{ if .Params.brightness }}
+                        <p><strong>Brightness:</strong> {{ .Params.brightness }}</p>
+                        {{ end }}
+                        {{ if .Params.size }}
+                        <p><strong>Size:</strong> {{ .Params.size }}</p>
                         {{ end }}
                         {{ if .Params.separation }}
                         <p><strong>Separation:</strong> {{ .Params.separation }}"</p>
@@ -82,6 +90,8 @@
                 {{ end }}
             </div>
             
+            {{ $section := .CurrentSection }}
+            {{ if $section.Params.hasSketchOrImage }}
             <div class="sketch-box">
                 <h3>Sketch</h3>
                 {{ $defaultImage := .Site.Params.defaultSketchImage }}
@@ -91,6 +101,7 @@
                 {{ $image := .Params.image | default $defaultImage }}
                 <img src="{{ $image }}" alt="{{ .Title }} sketch">
             </div>
+            {{ end }}
         </div>
     </div>
 </article>
