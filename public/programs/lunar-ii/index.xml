@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lunar II Program on Astronomy</title>
-    <link>http://localhost:1313/programs/lunar-ii/</link>
+    <link>https://astronomy.rtylermalone.com/programs/lunar-ii/</link>
     <description>Recent content in Lunar II Program on Astronomy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/programs/lunar-ii/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://astronomy.rtylermalone.com/programs/lunar-ii/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hyginus Rille</title>
-      <link>http://localhost:1313/programs/lunar-ii/hyginus-rille/</link>
+      <link>https://astronomy.rtylermalone.com/programs/lunar-ii/hyginus-rille/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/programs/lunar-ii/hyginus-rille/</guid>
+      <guid>https://astronomy.rtylermalone.com/programs/lunar-ii/hyginus-rille/</guid>
       <description>&lt;h1 id=&#34;hyginus-rille&#34;&gt;Hyginus Rille&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Observation not yet recorded. This is a placeholder for future observations.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;feature-information&#34;&gt;Feature Information&lt;/h2&gt;&#xA;&lt;p&gt;The Hyginus Rille is a fascinating linear feature in Mare Vaporum, notable for the crater Hyginus at its center and the unique chain of rimless craterlets along its length. This rille is thought to be volcanic in origin, possibly formed by collapse along a subsurface lava tube.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-to-look-for&#34;&gt;What to Look For&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linear rille crossing Mare Vaporum&lt;/li&gt;&#xA;&lt;li&gt;Crater Hyginus at the rille&amp;rsquo;s midpoint (11 km diameter)&lt;/li&gt;&#xA;&lt;li&gt;Chain of small rimless craters along the rille&lt;/li&gt;&#xA;&lt;li&gt;Connection to smaller secondary rilles&lt;/li&gt;&#xA;&lt;li&gt;Sharp definition under optimal lighting&lt;/li&gt;&#xA;&lt;li&gt;Contrast between rille floor and surrounding mare&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;observing-notes&#34;&gt;Observing Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Best phase&lt;/strong&gt;: 6-8 days after new moon (optimal lighting angle)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coordinates&lt;/strong&gt;: 7.8°N, 6.3°E&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Recommended magnification&lt;/strong&gt;: 150-250x minimum&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Challenge&lt;/strong&gt;: This is a Lunar II feature - requires excellent seeing&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Difficulty&lt;/strong&gt;: Moderate to challenging&lt;/li&gt;&#xA;&lt;li&gt;Look for the transition from rille to crater chain&lt;/li&gt;&#xA;&lt;li&gt;The rimless craterlets suggest volcanic rather than impact origin&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;historical-note&#34;&gt;Historical Note&lt;/h2&gt;&#xA;&lt;p&gt;Hyginus Rille was one of the features studied during planning for the Apollo missions and remains a subject of interest for understanding lunar volcanism.&lt;/p&gt;</description>
     </item>
   </channel>

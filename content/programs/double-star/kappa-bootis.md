@@ -16,6 +16,7 @@ program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
 observed: true
+date: 2023-07-10
 ---
 
 # Kappa Bootis

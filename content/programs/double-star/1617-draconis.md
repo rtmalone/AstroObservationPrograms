@@ -16,6 +16,7 @@ program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
 observed: true
+date: 2024-06-24
 ---
 
 # 16/17 Draconis

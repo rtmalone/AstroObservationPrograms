@@ -16,6 +16,7 @@ program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
 observed: true
+date: 2023-12-31
 ---
 
 # Delta Orionis
@@ -35,7 +36,7 @@ observed: true
 | **Lat/Lon:** | 35.15, -85.32 |
 | **Instrument:** | 1300/102 |
 | **Power:** | 130x |
-| **Date:** | 12-32-23 |
+| **Date:** | 12-31-23 |
 | **Time:** | 1103:pm Est |
 | **Est. P.A.:** | 0 deg |
 
