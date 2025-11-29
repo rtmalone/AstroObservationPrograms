@@ -15,7 +15,8 @@ next_star_link: "../gamma-arietis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-23
 ---
 
 # Zeta Piscium
@@ -30,20 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Zeta Piscium |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 4+ |
+| **Lat/Lon:** | 35.15, -85.37 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 144x |
+| **Date:** | 10-23-25 |
+| **Time:** | 11:23pm EST |
+| **Est. P.A.:** | 45 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Easy to split with a 25mm EP. Both are similar in color - white. Primary is visually larger and brighter
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Had to star hop again to find surrounding pentagon pattern of stars with Zeta Pisces in the middle.

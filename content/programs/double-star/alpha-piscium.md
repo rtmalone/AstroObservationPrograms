@@ -15,7 +15,8 @@ next_star_link: "../gamma-andromedae/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-23
 ---
 
 # Alpha Piscium
@@ -30,20 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Alpha Piscium |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 35.15, -85.37 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 200x |
+| **Date:** | 10-23-25 |
+| **Time:** | 10:19pm EST |
+| **Est. P.A.:** | N/A see notes. |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Alpha Piscium is white in color.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+With my very best and highest magnification EP I could not split this pair. I know I was on target however since A Piscium is easy to find in the constellation. I also confirmed the EP view in Stellarium.

@@ -15,7 +15,8 @@ next_star_link: "../theta-serpentis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-07-26
 ---
 
 # Otto Struve 525
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Otto Struve 525 |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
+| **Seeing:** | E |
+| **Transparency:** | 7 |
 | **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Instrument:** | 750/150mm |
+| **Power:** | 83x |
+| **Date:** | 7-26-2025 |
+| **Time:** | 1:33am CST |
+| **Est. P.A.:** | 350 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Pair is widely separated and differ in color. The primary is golden and the secondary blue. Neither being too brilliant. Primary is obviously larger.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

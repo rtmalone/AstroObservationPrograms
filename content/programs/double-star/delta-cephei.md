@@ -15,7 +15,8 @@ next_star_link: "../8-lacerta/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-15
 ---
 
 # Delta Cephei
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Delta Cephei |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 144x |
+| **Date:** | 10-15-25 |
+| **Time:** | 9:33om EST |
+| **Est. P.A.:** | 190 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Could see this pair as a single star with the naked eye. In the EP easily split with Delta Ceph A being brighter and a dull yellow. The "B" star is white.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

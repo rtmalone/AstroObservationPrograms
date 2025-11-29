@@ -15,7 +15,8 @@ next_star_link: "../delta-cephei/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-15
 ---
 
 # Zeta Aquarii
@@ -30,20 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Zeta Aquarii |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 5 |
+| **Date:** | 10-15-25 |
+| **Time:** | 9:02pm EST |
+| **Est. P.A.:** | 350 deg or 160 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+The pair is the same magnitude and size to the eye. In the EP at this magnification there is a haze around the pair. Both are dull white.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Hard to determine the primary so two estimated PAs are supplied.

@@ -15,7 +15,8 @@ next_star_link: "../eta-persei/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-23
 ---
 
 # Gamma Ceti
@@ -30,20 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Gamma Ceti |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 4+ |
+| **Lat/Lon:** | 35.15, -85.37 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 200x |
+| **Date:** | 10-23-25 |
+| **Time:** | 11:52pm EST |
+| **Est. P.A.:** | N/A see notes |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Dull white star.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Cannot split this with the best scope and EP pairing I have.

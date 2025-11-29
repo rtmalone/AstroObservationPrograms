@@ -15,7 +15,8 @@ next_star_link: "../sigma-corona-borealis/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-07-27
 ---
 
 # Nu Scorpii
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Nu Scorpii |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 30.20, -103.25 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 83x |
+| **Date:** | 7-27-2025 |
+| **Time:** | 1:05am CST |
+| **Est. P.A.:** | 350 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Primary is noticeably larger and brighter. Both appear white although the secondary may be shifting color a bit in the atmosphere.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

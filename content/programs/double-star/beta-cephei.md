@@ -15,7 +15,8 @@ next_star_link: "../struve-2816/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-15
 ---
 
 # Beta Cephei
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Beta Cephei |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.15, -85.32 |
+| **Instrument:** | 1300/102 |
+| **Power:** |  |
+| **Date:** | 10-15-2025 |
+| **Time:** | 9:45pm EST |
+| **Est. P.A.:** | 240 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Seeing dropped a bit and Beta Ceph B was only visible in calm atmosphere. Color of the primary is buish-white. Noticable size and magnitude difference in teh pair.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

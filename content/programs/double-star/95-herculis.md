@@ -15,7 +15,8 @@ next_star_link: "../70-ophiuchi/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-07-25
 ---
 
 # 95 Herculis
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | 95 Herculis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 30.20, -103.25 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 83x |
+| **Date:** | 7-25-25 |
+| **Time:** | 1:32pm CST |
+| **Est. P.A.:** | 260 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+A blue and yellow pair. Neither extremely so, though. Roughly equal in size and magnitude. The blue star appears to be the primary.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

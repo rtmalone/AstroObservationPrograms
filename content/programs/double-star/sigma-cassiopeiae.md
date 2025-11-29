@@ -13,7 +13,8 @@ prev_star_link: "../94-aquarii/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-07-25
 ---
 
 # Sigma Cassiopeiae
@@ -28,19 +29,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Sigma Cassiopeiae |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 30.20, -103.25 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 115x |
+| **Date:** | 7-25-2025 |
+| **Time:** | 1:57pm CST |
+| **Est. P.A.:** | 320 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Very difficult to split and the secondary is very small. Each is slightly blue.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

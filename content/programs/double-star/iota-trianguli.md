@@ -15,7 +15,8 @@ next_star_link: "../alpha-ursa-minoris/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-23
 ---
 
 # Iota Trianguli
@@ -30,20 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Iota Trianguli |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 4+ |
+| **Lat/Lon:** | 35.15, -85.37 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 144x |
+| **Date:** | 10-23-25 |
+| **Time:** | 11:05pm EST |
+| **Est. P.A.:** | 75 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Primary is slightly yellow and secondary is pale white. The secondary only came into focus in calm atmosphere
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Very close pair and I consulted star charts to comfirm patterns of nearby stars.

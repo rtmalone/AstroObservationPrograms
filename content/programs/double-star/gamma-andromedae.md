@@ -15,7 +15,8 @@ next_star_link: "../iota-trianguli/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-23
 ---
 
 # Gamma Andromedae
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Gamma Andromedae |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 4+ |
+| **Lat/Lon:** | 35.15, -85.37 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 144x |
+| **Date:** | 10-23-25 |
+| **Time:** | 10:50pm EST |
+| **Est. P.A.:** | 75 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Very nice pair! The primary is golden and quite large in size. The secondary is blue-white. Maybe a tad more blue than white. The secondary is also quite dimmer.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

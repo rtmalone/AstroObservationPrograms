@@ -15,7 +15,8 @@ next_star_link: "../psi-1-piscium/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-10-19
 ---
 
 # 65 Piscium
@@ -30,20 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | 65 Piscium |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | VG |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 35.36, -85.33 |
+| **Instrument:** | 1300/102 |
+| **Power:** | 144x |
+| **Date:** | 10-19-2025 |
+| **Time:** | 9:56pm EST |
+| **Est. P.A.:** | 130 deg or 310 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Another pair visually the same in magnitude, size, and color which is blue.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Couldn't determine which is primary so two estimated PA are given.
