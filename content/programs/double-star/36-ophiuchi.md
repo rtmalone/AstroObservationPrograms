@@ -15,7 +15,8 @@ next_star_link: "../omicron-ophiuchi/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-7-24
 ---
 
 # 36 Ophiuchi
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | 36 Ophiuchi |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 30.20, -103.25 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 115x |
+| **Date:** | 2025-07-25 |
+| **Time:** | 11:57pm EST |
+| **Est. P.A.:** | 170 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+The pair is similar in both size and magnitude. Each is gold in color.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

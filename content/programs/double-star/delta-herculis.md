@@ -15,7 +15,8 @@ next_star_link: "../36-ophiuchi/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-7-25
 ---
 
 # Delta Herculis
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | Delta Herculis |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | E |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 30.20, -103.25 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 83x |
+| **Date:** | 2025-07-25 |
+| **Time:** | 1:07pm CST |
+| **Est. P.A.:** | 285 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+Surrounding starfield is evenly distributed. Both stars appear white. The primary is so much brighter that the secondary can be hidden in the shine of the primary.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*

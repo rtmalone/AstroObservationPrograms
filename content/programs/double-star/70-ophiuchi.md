@@ -15,7 +15,8 @@ next_star_link: "../epsilon-lyrae/"
 program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
-observed: false
+observed: true
+date: 2025-7-25
 ---
 
 # 70 Ophiuchi
@@ -30,19 +31,19 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | 70 Ophiuchi |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
-| **Est. P.A.:** | *(Estimated position angle)* |
+| **Seeing:** | G |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 30.20, -103.25 |
+| **Instrument:** | 750/150mm Orion Starblast 6 |
+| **Power:** | 83 |
+| **Date:** | 2025-07-25 |
+| **Time:** | 12:33pm CST |
+| **Est. P.A.:** | 130 deg |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the double star here. Note the colors of each component, the contrast between them, and any interesting features.*
+A yellow pair set in the Milky Way. The secondary is about half the size of the primary. Each shines brilliantly.
 
 ### Additional Notes
 *Any other observations, challenges encountered, or notable details about this observation session*
