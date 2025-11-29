@@ -16,7 +16,7 @@ program_link: "../"
 program_name: "Double Star Program"
 image: "/images/placeholder-double-star.svg"
 observed: true
-date: 2025-7-24
+date: 2025-07-24
 ---
 
 # 36 Ophiuchi
