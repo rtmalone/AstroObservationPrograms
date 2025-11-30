@@ -9,6 +9,12 @@ magnitude: "9.5"
 size: "9' × 4'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M103"
+prev_object_link: "../m103-cassiopeia-cluster/"
+next_object: "M105"
+next_object_link: "../m105-leo-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M104 - Sombrero Galaxy

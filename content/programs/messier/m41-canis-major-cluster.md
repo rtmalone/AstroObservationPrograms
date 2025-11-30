@@ -8,12 +8,19 @@ dec: "-20° 44' 00\""
 magnitude: "5.0"
 size: "38.0'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-02-10"
+prev_object: "M40"
+prev_object_link: "../m40-winnecke-4/"
+next_object: "M42"
+next_object_link: "../m42-orion-nebula/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M41 - Canis Major Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Little Beehive Cluster observed from my home location on a fair night with excellent transparency.
 
 ---
 
@@ -22,19 +29,18 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | M41 - Canis Major Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | F |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.150, -85.326 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 30.0x (25mm eyepiece) |
+| **Date:** | 2023-02-10 |
+| **Time:** | 1:17 AM EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Wide open cluster that fills the eyepiece. 12 CMa, a red star, is very apparent near the middle.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Searched through the trees to find this to the right and below Sirius. Moon (waxing gibbous) in sky. Used Telrad finder.

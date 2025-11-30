@@ -9,6 +9,12 @@ magnitude: "9.5"
 size: "7' × 3'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M93"
+prev_object_link: "../m93-puppis-cluster/"
+next_object: "M95"
+next_object_link: "../m95-leo-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M94 - Canes Venatici Galaxy

@@ -9,6 +9,12 @@ magnitude: "8.5"
 size: "11' × 10'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M82"
+prev_object_link: "../m82-cigar-galaxy/"
+next_object: "M84"
+next_object_link: "../m84-virgo-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M83 - Southern Pinwheel Galaxy

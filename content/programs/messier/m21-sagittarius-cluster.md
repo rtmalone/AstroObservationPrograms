@@ -8,12 +8,19 @@ dec: "-22° 30' 00\""
 magnitude: "7.0"
 size: "13.0'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-07-11"
+prev_object: "M20"
+prev_object_link: "../m20-trifid-nebula/"
+next_object: "M22"
+next_object_link: "../m22-sagittarius-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M21 - Sagittarius Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Webb's Cross observed from SM Soccer Fields on a very good night with excellent transparency.
 
 ---
 
@@ -22,19 +29,18 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | M21 - Sagittarius Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 46.9x (16mm eyepiece) |
+| **Date:** | 2023-07-11 |
+| **Time:** | 12:15 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+A smaller but still nice open cluster at the end of Webb's Cross opposite M20.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Seen with M20 as well; just stunning! Used Telrad finder.

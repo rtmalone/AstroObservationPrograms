@@ -9,6 +9,12 @@ magnitude: "8.0"
 size: "14.1'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M61"
+prev_object_link: "../m61-virgo-galaxy/"
+next_object: "M63"
+next_object_link: "../m63-sunflower-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M62 - Ophiuchus Cluster

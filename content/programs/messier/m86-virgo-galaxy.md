@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "7.5' × 5.5'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M85"
+prev_object_link: "../m85-coma-galaxy/"
+next_object: "M87"
+next_object_link: "../m87-virgo-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M86 - Virgo Galaxy

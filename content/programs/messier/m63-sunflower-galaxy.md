@@ -9,6 +9,12 @@ magnitude: "8.5"
 size: "10' × 6'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M62"
+prev_object_link: "../m62-ophiuchus-cluster/"
+next_object: "M64"
+next_object_link: "../m64-black-eye-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M63 - Sunflower Galaxy

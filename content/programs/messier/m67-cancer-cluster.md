@@ -9,6 +9,12 @@ magnitude: "7.5"
 size: "30.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M66"
+prev_object_link: "../m66-leo-galaxy/"
+next_object: "M68"
+next_object_link: "../m68-hydra-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M67 - Cancer Cluster

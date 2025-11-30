@@ -8,12 +8,19 @@ dec: "-00° 49' 00\""
 magnitude: "7.5"
 size: "12.9'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-01-01"
+prev_object: "M1"
+prev_object_link: "../m1-crab-nebula/"
+next_object: "M3"
+next_object_link: "../m3-canes-venatici-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M2 - Aquarius Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Nameless Cluster in Aquarius observed from SM Soccer Fields on a good night.
 
 ---
 
@@ -22,19 +29,18 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | M2 - Aquarius Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | G |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 150.0x (10mm eyepiece + 2x Barlow) |
+| **Date:** | 2023-01-01 |
+| **Time:** | 7:18 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Moon washes out the contrast so the edges of the cluster are not visible, but the bright center is visible.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Telrad worked well; found with first try.

@@ -9,6 +9,12 @@ magnitude: "9.0"
 size: "2.8'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M72"
+prev_object_link: "../m72-aquarius-cluster/"
+next_object: "M74"
+next_object_link: "../m74-pisces-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M73 - Aquarius Asterism

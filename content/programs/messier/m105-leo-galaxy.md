@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "2.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M104"
+prev_object_link: "../m104-sombrero-galaxy/"
+next_object: "M106"
+next_object_link: "../m106-canes-venatici-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M105 - Leo Galaxy

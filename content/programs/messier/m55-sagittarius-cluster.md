@@ -9,6 +9,12 @@ magnitude: "7.0"
 size: "19.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M54"
+prev_object_link: "../m54-sagittarius-cluster/"
+next_object: "M56"
+next_object_link: "../m56-lyra-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M55 - Sagittarius Cluster

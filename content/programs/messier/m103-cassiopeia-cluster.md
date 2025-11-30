@@ -9,6 +9,12 @@ magnitude: "7.0"
 size: "6.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M102"
+prev_object_link: "../m102-spindle-galaxy/"
+next_object: "M104"
+next_object_link: "../m104-sombrero-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M103 - Cassiopeia Cluster

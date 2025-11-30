@@ -9,6 +9,12 @@ magnitude: "10.0"
 size: "8' × 2.5'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M65"
+prev_object_link: "../m65-leo-galaxy/"
+next_object: "M67"
+next_object_link: "../m67-cancer-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M66 - Leo Galaxy

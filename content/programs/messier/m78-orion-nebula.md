@@ -9,6 +9,12 @@ magnitude: "8.0"
 size: "8' × 6'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M77"
+prev_object_link: "../m77-cetus-galaxy/"
+next_object: "M79"
+next_object_link: "../m79-lepus-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M78 - Orion Nebula

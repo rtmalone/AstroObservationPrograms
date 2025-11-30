@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "5.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M83"
+prev_object_link: "../m83-southern-pinwheel-galaxy/"
+next_object: "M85"
+next_object_link: "../m85-coma-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M84 - Virgo Galaxy

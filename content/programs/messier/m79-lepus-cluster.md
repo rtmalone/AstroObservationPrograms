@@ -9,6 +9,12 @@ magnitude: "8.5"
 size: "8.7'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M78"
+prev_object_link: "../m78-orion-nebula/"
+next_object: "M80"
+next_object_link: "../m80-scorpius-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M79 - Lepus Cluster

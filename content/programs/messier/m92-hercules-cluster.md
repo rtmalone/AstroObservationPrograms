@@ -9,6 +9,12 @@ magnitude: "7.5"
 size: "11.2'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M91"
+prev_object_link: "../m91-coma-galaxy/"
+next_object: "M93"
+next_object_link: "../m93-puppis-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M92 - Hercules Cluster

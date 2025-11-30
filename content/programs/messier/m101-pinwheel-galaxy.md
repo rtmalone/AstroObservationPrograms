@@ -9,6 +9,12 @@ magnitude: "8.5"
 size: "22.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M100"
+prev_object_link: "../m100-coma-galaxy/"
+next_object: "M102"
+next_object_link: "../m102-spindle-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M101 - Pinwheel Galaxy

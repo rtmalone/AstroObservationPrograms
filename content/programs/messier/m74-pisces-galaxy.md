@@ -9,6 +9,12 @@ magnitude: "10.5"
 size: "10.2' × 9.5'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M73"
+prev_object_link: "../m73-aquarius-asterism/"
+next_object: "M75"
+next_object_link: "../m75-sagittarius-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M74 - Pisces Galaxy

@@ -9,6 +9,12 @@ magnitude: "10.0"
 size: "5.9'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M71"
+prev_object_link: "../m71-sagitta-cluster/"
+next_object: "M73"
+next_object_link: "../m73-aquarius-asterism/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M72 - Aquarius Cluster

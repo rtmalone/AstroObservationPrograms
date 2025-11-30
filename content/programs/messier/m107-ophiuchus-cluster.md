@@ -9,6 +9,12 @@ magnitude: "10.0"
 size: "10.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M106"
+prev_object_link: "../m106-canes-venatici-galaxy/"
+next_object: "M108"
+next_object_link: "../m108-ursa-major-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M107 - Ophiuchus Cluster

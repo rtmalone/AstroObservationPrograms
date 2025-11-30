@@ -9,6 +9,12 @@ magnitude: "10.5"
 size: "6' × 5.5'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M60"
+prev_object_link: "../m60-virgo-galaxy/"
+next_object: "M62"
+next_object_link: "../m62-ophiuchus-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M61 - Virgo Galaxy

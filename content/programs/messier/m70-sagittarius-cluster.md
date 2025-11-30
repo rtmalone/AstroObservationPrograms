@@ -9,6 +9,12 @@ magnitude: "9.0"
 size: "7.8'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M69"
+prev_object_link: "../m69-sagittarius-cluster/"
+next_object: "M71"
+next_object_link: "../m71-sagitta-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M70 - Sagittarius Cluster

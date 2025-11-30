@@ -8,12 +8,19 @@ dec: "+12° 10' 00\""
 magnitude: "7.5"
 size: "12.3'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-01-01"
+prev_object: "M14"
+prev_object_link: "../m14-ophiuchus-cluster/"
+next_object: "M16"
+next_object_link: "../m16-eagle-nebula/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M15 - Pegasus Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Globular Cluster observed from SM Soccer Fields on a good night.
 
 ---
 
@@ -22,19 +29,18 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | M15 - Pegasus Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | G |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 75.0x (10mm eyepiece) |
+| **Date:** | 2023-01-01 |
+| **Time:** | 7:45 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+About average size and fuzzy. A couple brighter stars share the view.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Waxing gibbous moon washes out the view a bit but is far from the target. Misidentified Enif at first for star hopping, but after correcting easy enough to find. Used Telrad finder.

@@ -9,6 +9,12 @@ magnitude: "10.5"
 size: "5.2' × 2.3'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M101"
+prev_object_link: "../m101-pinwheel-galaxy/"
+next_object: "M103"
+next_object_link: "../m103-cassiopeia-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M102 - Spindle Galaxy

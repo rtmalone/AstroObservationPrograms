@@ -9,6 +9,12 @@ magnitude: "8.5"
 size: "21' × 10'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M80"
+prev_object_link: "../m80-scorpius-cluster/"
+next_object: "M82"
+next_object_link: "../m82-cigar-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M81 - Bode's Galaxy

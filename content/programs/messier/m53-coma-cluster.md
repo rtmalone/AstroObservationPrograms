@@ -9,6 +9,12 @@ magnitude: "8.5"
 size: "12.6'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M52"
+prev_object_link: "../m52-cassiopeia-cluster/"
+next_object: "M54"
+next_object_link: "../m54-sagittarius-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M53 - Coma Cluster

@@ -9,6 +9,12 @@ magnitude: "10.5"
 size: "6' × 4'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M95"
+prev_object_link: "../m95-leo-galaxy/"
+next_object: "M97"
+next_object_link: "../m97-owl-nebula/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M96 - Leo Galaxy

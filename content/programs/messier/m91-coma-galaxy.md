@@ -9,6 +9,12 @@ magnitude: "11.5"
 size: "5.4' × 4.4'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M90"
+prev_object_link: "../m90-virgo-galaxy/"
+next_object: "M92"
+next_object_link: "../m92-hercules-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M91 - Coma Galaxy

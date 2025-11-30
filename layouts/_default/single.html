@@ -1,10 +1,10 @@
 {{ define "main" }}
 <article>
-    {{ if or .Params.prev_star .Params.next_star .Params.prev_feature .Params.next_feature .Params.star_number }}
+    {{ if or .Params.prev_star .Params.next_star .Params.prev_feature .Params.next_feature .Params.prev_object .Params.next_object .Params.star_number }}
     <nav class="page-navigation">
         <div class="nav-links">
-            {{ if or .Params.prev_star .Params.prev_feature }}
-            <a href="{{ .Params.prev_star_link | default .Params.prev_feature_link }}" class="nav-prev">← {{ .Params.prev_star | default .Params.prev_feature }}</a>
+            {{ if or .Params.prev_star .Params.prev_feature .Params.prev_object }}
+            <a href="{{ .Params.prev_star_link | default .Params.prev_feature_link | default .Params.prev_object_link }}" class="nav-prev">← {{ .Params.prev_star | default .Params.prev_feature | default .Params.prev_object }}</a>
             {{ else }}
             <span class="nav-spacer"></span>
             {{ end }}
@@ -13,8 +13,8 @@
             <a href="{{ .Params.program_link }}" class="nav-program">{{ .Params.program_name | default "Program" }}</a>
             {{ end }}
             
-            {{ if or .Params.next_star .Params.next_feature }}
-            <a href="{{ .Params.next_star_link | default .Params.next_feature_link }}" class="nav-next">{{ .Params.next_star | default .Params.next_feature }} →</a>
+            {{ if or .Params.next_star .Params.next_feature .Params.next_object }}
+            <a href="{{ .Params.next_star_link | default .Params.next_feature_link | default .Params.next_object_link }}" class="nav-next">{{ .Params.next_star | default .Params.next_feature | default .Params.next_object }} →</a>
             {{ else }}
             <span class="nav-spacer"></span>
             {{ end }}

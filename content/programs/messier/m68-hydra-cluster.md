@@ -9,6 +9,12 @@ magnitude: "9.0"
 size: "12.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M67"
+prev_object_link: "../m67-cancer-cluster/"
+next_object: "M69"
+next_object_link: "../m69-sagittarius-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M68 - Hydra Cluster

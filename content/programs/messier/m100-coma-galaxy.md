@@ -9,6 +9,12 @@ magnitude: "10.5"
 size: "7' × 6'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M99"
+prev_object_link: "../m99-coma-galaxy/"
+next_object: "M101"
+next_object_link: "../m101-pinwheel-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M100 - Coma Galaxy

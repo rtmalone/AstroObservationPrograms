@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "8' × 1'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M107"
+prev_object_link: "../m107-ophiuchus-cluster/"
+next_object: "M109"
+next_object_link: "../m109-ursa-major-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M108 - Ursa Major Galaxy

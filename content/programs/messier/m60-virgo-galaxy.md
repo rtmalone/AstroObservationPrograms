@@ -9,6 +9,12 @@ magnitude: "10.5"
 size: "7' × 6'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M59"
+prev_object_link: "../m59-virgo-galaxy/"
+next_object: "M61"
+next_object_link: "../m61-virgo-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M60 - Virgo Galaxy

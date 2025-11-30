@@ -8,12 +8,19 @@ dec: "+24° 20' 00\""
 magnitude: "5.5"
 size: "28.0'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2022-12-29"
+prev_object: "M34"
+prev_object_link: "../m34-perseus-cluster/"
+next_object: "M36"
+next_object_link: "../m36-auriga-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M35 - Gemini Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+The Shoe-Buckle Cluster observed from SM Soccer Fields on an exceptional night with excellent transparency.
 
 ---
 
@@ -22,19 +29,18 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | M35 - Gemini Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | E |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 75.0x (10mm eyepiece) |
+| **Date:** | 2022-12-29 |
+| **Time:** | 8:27 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Saw the "basket" structure of four brightest stars clearly. Dimmer stars look like they are poured out of the basket.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Could not find neighboring NGC 2158. Used Red Dot finder.

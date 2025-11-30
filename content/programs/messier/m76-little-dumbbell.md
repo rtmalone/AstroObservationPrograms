@@ -9,6 +9,12 @@ magnitude: "12.0"
 size: "163\" × 107\""
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M75"
+prev_object_link: "../m75-sagittarius-cluster/"
+next_object: "M77"
+next_object_link: "../m77-cetus-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M76 - Little Dumbbell

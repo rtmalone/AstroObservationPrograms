@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "9.5' × 4.5'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M89"
+prev_object_link: "../m89-virgo-galaxy/"
+next_object: "M91"
+next_object_link: "../m91-coma-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M90 - Virgo Galaxy

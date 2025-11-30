@@ -9,6 +9,12 @@ magnitude: "8.0"
 size: "11' × 7'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M50"
+prev_object_link: "../m50-monoceros-cluster/"
+next_object: "M52"
+next_object_link: "../m52-cassiopeia-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M51 - Whirlpool Galaxy

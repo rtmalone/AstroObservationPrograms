@@ -8,12 +8,19 @@ dec: "-08° 20' 00\""
 magnitude: "7.0"
 size: "16.0'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-02-13"
+prev_object: "M49"
+prev_object_link: "../m49-virgo-cluster/"
+next_object: "M51"
+next_object_link: "../m51-whirlpool-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M50 - Monoceros Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Heart Shaped Cluster observed from my home location on a very good night.
 
 ---
 
@@ -22,19 +29,18 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | M50 - Monoceros Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 5 |
+| **Lat/Lon:** | 35.150, -85.326 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 75.0x (10mm eyepiece) |
+| **Date:** | 2023-02-13 |
+| **Time:** | 9:50 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Many stars in the background.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Confirmed heart shape of the bright stars and sketched it in the book. Used Telrad finder.

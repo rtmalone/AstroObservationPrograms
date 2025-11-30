@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "7' × 4'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M108"
+prev_object_link: "../m108-ursa-major-galaxy/"
+next_object: "M110"
+next_object_link: "../m110-andromeda-companion/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M109 - Ursa Major Galaxy

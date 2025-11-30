@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "4.4' × 3.3'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M94"
+prev_object_link: "../m94-canes-venatici-galaxy/"
+next_object: "M96"
+next_object_link: "../m96-leo-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M95 - Leo Galaxy

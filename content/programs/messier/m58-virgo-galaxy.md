@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "5.5' × 4.5'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M57"
+prev_object_link: "../m57-ring-nebula/"
+next_object: "M59"
+next_object_link: "../m59-virgo-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M58 - Virgo Galaxy

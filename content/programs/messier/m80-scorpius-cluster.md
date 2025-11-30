@@ -9,6 +9,12 @@ magnitude: "8.5"
 size: "8.9'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M79"
+prev_object_link: "../m79-lepus-cluster/"
+next_object: "M81"
+next_object_link: "../m81-bodes-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M80 - Scorpius Cluster

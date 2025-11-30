@@ -9,6 +9,12 @@ magnitude: "9.5"
 size: "6.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M74"
+prev_object_link: "../m74-pisces-galaxy/"
+next_object: "M76"
+next_object_link: "../m76-little-dumbbell/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M75 - Sagittarius Cluster

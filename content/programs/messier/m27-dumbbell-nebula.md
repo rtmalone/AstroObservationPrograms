@@ -8,12 +8,19 @@ dec: "+22° 43' 00\""
 magnitude: "7.5"
 size: "480\" × 340\""
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-07-11"
+prev_object: "M26"
+prev_object_link: "../m26-scutum-cluster/"
+next_object: "M28"
+next_object_link: "../m28-sagittarius-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M27 - Dumbbell Nebula
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Planetary Nebula observed from SM Soccer Fields on a very good night with excellent transparency.
 
 ---
 
@@ -22,19 +29,18 @@ observed: false
 |  |  |
 |-------|------|
 | **Object Name:** | M27 - Dumbbell Nebula |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 7 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 46.9x (16mm eyepiece) |
+| **Date:** | 2023-07-11 |
+| **Time:** | 11:55 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+With the O III filter the nebula was bright and the center structure was visible. Nice surrounding starfield with bright stars.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
-
+Used Telrad finder to locate this object.

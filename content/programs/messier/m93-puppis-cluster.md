@@ -9,6 +9,12 @@ magnitude: "6.5"
 size: "22.0'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M92"
+prev_object_link: "../m92-hercules-cluster/"
+next_object: "M94"
+next_object_link: "../m94-canes-venatici-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M93 - Puppis Cluster

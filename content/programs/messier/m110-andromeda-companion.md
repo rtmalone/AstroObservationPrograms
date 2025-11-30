@@ -9,6 +9,10 @@ magnitude: "10.0"
 size: "17' × 10'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M109"
+prev_object_link: "../m109-ursa-major-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M110 - Andromeda Companion

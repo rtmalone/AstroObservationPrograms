@@ -9,6 +9,12 @@ magnitude: "11.0"
 size: "9.5' × 3.2'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M97"
+prev_object_link: "../m97-owl-nebula/"
+next_object: "M99"
+next_object_link: "../m99-coma-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M98 - Coma Galaxy

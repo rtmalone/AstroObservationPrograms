@@ -9,6 +9,12 @@ magnitude: "9.5"
 size: "19' × 8'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M105"
+prev_object_link: "../m105-leo-galaxy/"
+next_object: "M107"
+next_object_link: "../m107-ophiuchus-cluster/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M106 - Canes Venatici Galaxy

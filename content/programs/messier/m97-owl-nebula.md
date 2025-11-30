@@ -9,6 +9,12 @@ magnitude: "12.0"
 size: "202\" × 196\""
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M96"
+prev_object_link: "../m96-leo-galaxy/"
+next_object: "M98"
+next_object_link: "../m98-coma-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M97 - Owl Nebula

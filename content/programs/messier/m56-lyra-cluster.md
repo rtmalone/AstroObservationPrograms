@@ -9,6 +9,12 @@ magnitude: "9.5"
 size: "7.1'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M55"
+prev_object_link: "../m55-sagittarius-cluster/"
+next_object: "M57"
+next_object_link: "../m57-ring-nebula/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M56 - Lyra Cluster

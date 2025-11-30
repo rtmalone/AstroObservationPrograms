@@ -9,6 +9,12 @@ magnitude: "10.5"
 size: "8' × 1.5'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M64"
+prev_object_link: "../m64-black-eye-galaxy/"
+next_object: "M66"
+next_object_link: "../m66-leo-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M65 - Leo Galaxy

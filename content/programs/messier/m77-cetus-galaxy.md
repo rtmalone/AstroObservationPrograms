@@ -9,6 +9,12 @@ magnitude: "10.5"
 size: "7' × 6'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M76"
+prev_object_link: "../m76-little-dumbbell/"
+next_object: "M78"
+next_object_link: "../m78-orion-nebula/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M77 - Cetus Galaxy

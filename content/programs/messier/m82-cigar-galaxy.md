@@ -9,6 +9,12 @@ magnitude: "9.5"
 size: "9' × 4'"
 image: "/images/placeholder-messier.png"
 observed: false
+prev_object: "M81"
+prev_object_link: "../m81-bodes-galaxy/"
+next_object: "M83"
+next_object_link: "../m83-southern-pinwheel-galaxy/"
+program_link: "../"
+program_name: "Messier Program"
 ---
 
 # M82 - Cigar Galaxy
