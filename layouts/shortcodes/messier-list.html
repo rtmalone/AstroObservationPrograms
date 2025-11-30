@@ -1,0 +1,25 @@
+{{ $inner := .Inner | strings.TrimSpace }}
+{{ $lines := split $inner "\n" }}
+{{ $page := .Page }}
+
+<ul class="messier-list">
+{{ range $lines }}
+  {{ $parts := split . "|" }}
+  {{ if ge (len $parts) 2 }}
+    {{ $filename := index $parts 0 | strings.TrimSpace }}
+    {{ $description := index $parts 1 | strings.TrimSpace }}
+    
+    {{ range $page.Pages }}
+      {{ if eq .File.BaseFileName $filename }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a> - {{ $description }}
+          {{ if .Params.observed }}
+            <span class="observed-inline-badge">✓ Observed</span>
+          {{ end }}
+        </li>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+</ul>
+

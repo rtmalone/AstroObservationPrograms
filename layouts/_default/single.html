@@ -38,7 +38,6 @@
                     
                     {{ if or .Params.constellation .Params.difficulty .Params.ra .Params.dec .Params.magnitude .Params.separation .Params.object_type .Params.size .Params.brightness }}
                     <div class="object-data-section">
-                        <h3>Object Data</h3>
                         {{ if .Params.object_type }}
                         <p><strong>Object Type:</strong> {{ .Params.object_type }}</p>
                         {{ end }}

@@ -1,4 +1,5 @@
 ---
+
 title: "M42 - Orion Nebula"
 constellation: "Orion"
 object_type: "Emission Nebula"
@@ -16,23 +17,24 @@ observed: false
 
 ---
 
-## Object Information
+## My Observation Details
 
-The Great Orion Nebula is one of the brightest and most studied emission nebulae in the sky. Located in Orion's sword, M42 is visible to the naked eye as a fuzzy patch and reveals incredible detail through telescopes of any size.
+|  |  |
+|-------|------|
+| **Object Name:** | M42 - Orion Nebula |
+| **Seeing:** | *(1-10, 10 being perfect)* |
+| **Transparency:** | *(Limiting magnitude)* |
+| **Lat/Lon:** | 35.16, -85.37 |
+| **Instrument:** | *(Telescope/binoculars used)* |
+| **Power:** | *(Magnification used)* |
+| **Date:** | *(YYYY-MM-DD)* |
+| **Time:** | *(Local time)* |
 
-## What to Look For
+## Observation Notes
 
-- The Trapezium cluster at the nebula's heart (four bright stars)
-- Diffuse nebulosity extending in all directions
-- Dark dust lanes creating structure within the nebula
-- The "wings" of the nebula extending north and south
-- Use averted vision to see fainter extensions
-- OIII filter enhances contrast significantly
+### Visual Description
+*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
 
-## Observing Notes
-
-- Best observed: Winter months (December-March)
-- Visibility: Excellent from northern and southern hemispheres
-- Recommended magnification: 50-150x
-- One of the most rewarding deep-sky objects for all skill levels
+### Additional Notes
+*Any other observations, challenges encountered, or notable details about this observation session*
 

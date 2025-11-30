@@ -15,5 +15,5 @@ I'm an amateur astronomer working through various Astronomical League observatio
 
 I'm currently working on the following Astronomical League programs:
 
-- Messier Program
-- [Other programs...]
+- Double Star
+- Lunar II
