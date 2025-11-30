@@ -1,6 +1,5 @@
 ---
 title: "Messier Program"
-progress: "0/110 objects observed"
 image: "/images/placeholder-messier.png"
 summary: "Observe all 110 Messier objects - the brightest deep-sky treasures including galaxies, nebulae, and star clusters. A classic introduction to deep-sky observing."
 hasSketchOrImage: true

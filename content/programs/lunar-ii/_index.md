@@ -1,6 +1,5 @@
 ---
 title: "Lunar II Program"
-progress: "0/100 features observed"
 image: "/images/placeholder-lunar.png"
 summary: "Advanced lunar observing requiring 100 additional challenging features. Focus on smaller craters, domes, rilles, and subtle formations. Lunar I completion required."
 hasSketchOrImage: true

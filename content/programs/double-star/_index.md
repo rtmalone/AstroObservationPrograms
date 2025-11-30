@@ -1,6 +1,5 @@
 ---
 title: "Double Star Program"
-progress: "0/100 pairs observed"
 image: "/images/placeholder-double-star.svg"
 summary: "Observe 100 double and multiple star systems to explore stellar companions. Successfully split pairs and record their separations, position angles, and colors."
 hasSketchOrImage: true

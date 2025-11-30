@@ -24,6 +24,32 @@
     {{ end }}
     
     {{ .Content }}
+    
+    {{ if .Sections }}
+    <div class="observation-grid">
+        {{ range .Sections }}
+        <article class="program-card">
+            {{ if .Params.image }}
+            <a href="{{ .Permalink }}">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+            </a>
+            {{ end }}
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Summary }}</p>
+            {{ if .RegularPages }}
+                {{ $totalPages := len .RegularPages }}
+                {{ $observedPages := 0 }}
+                {{ range .RegularPages }}
+                    {{ if .Params.observed }}
+                        {{ $observedPages = add $observedPages 1 }}
+                    {{ end }}
+                {{ end }}
+                <p><strong>Progress:</strong> {{ $observedPages }}/{{ $totalPages }} observed</p>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+    {{ end }}
 </div>
 {{ end }}
 
