@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Messier Program on Astronomy</title>
-    <link>https://astronomy.rtylermalone.com/programs/messier/</link>
+    <link>http://localhost:62038/programs/messier/</link>
     <description>Recent content in Messier Program on Astronomy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://astronomy.rtylermalone.com/programs/messier/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62038/programs/messier/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M42 - Orion Nebula</title>
-      <link>https://astronomy.rtylermalone.com/programs/messier/m42-orion-nebula/</link>
+      <link>http://localhost:62038/programs/messier/m42-orion-nebula/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://astronomy.rtylermalone.com/programs/messier/m42-orion-nebula/</guid>
+      <guid>http://localhost:62038/programs/messier/m42-orion-nebula/</guid>
       <description>&lt;h1 id=&#34;m42---orion-nebula&#34;&gt;M42 - Orion Nebula&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Observation not yet recorded. This is a placeholder for future observations.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;object-information&#34;&gt;Object Information&lt;/h2&gt;&#xA;&lt;p&gt;The Great Orion Nebula is one of the brightest and most studied emission nebulae in the sky. Located in Orion&amp;rsquo;s sword, M42 is visible to the naked eye as a fuzzy patch and reveals incredible detail through telescopes of any size.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-to-look-for&#34;&gt;What to Look For&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Trapezium cluster at the nebula&amp;rsquo;s heart (four bright stars)&lt;/li&gt;&#xA;&lt;li&gt;Diffuse nebulosity extending in all directions&lt;/li&gt;&#xA;&lt;li&gt;Dark dust lanes creating structure within the nebula&lt;/li&gt;&#xA;&lt;li&gt;The &amp;ldquo;wings&amp;rdquo; of the nebula extending north and south&lt;/li&gt;&#xA;&lt;li&gt;Use averted vision to see fainter extensions&lt;/li&gt;&#xA;&lt;li&gt;OIII filter enhances contrast significantly&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;observing-notes&#34;&gt;Observing Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Best observed: Winter months (December-March)&lt;/li&gt;&#xA;&lt;li&gt;Visibility: Excellent from northern and southern hemispheres&lt;/li&gt;&#xA;&lt;li&gt;Recommended magnification: 50-150x&lt;/li&gt;&#xA;&lt;li&gt;One of the most rewarding deep-sky objects for all skill levels&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

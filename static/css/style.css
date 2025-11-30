@@ -227,6 +227,35 @@ h3 {
     border: 1px solid #3d7020;
 }
 
+.observed-inline-badge {
+    display: inline-block;
+    background-color: #d4af37;
+    color: #0a0e27;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    margin-left: 0.5rem;
+}
+
+.double-star-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.double-star-list li {
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.double-star-list li:before {
+    content: "−";
+    position: absolute;
+    left: 0;
+    color: #6b9bd1;
+}
+
 .observed-date-badge {
     display: inline-block;
     background-color: #d4af37;

@@ -21,128 +21,164 @@ The Astronomical League's Double Star Program introduces observers to the fascin
 Below are all 100 double stars in the program, organized by the month when they are best visible in the evening sky (around 9 PM):
 
 ### November Evening Sky (R.A. 0h - 2h)
-- [Eta Cassiopeiae](eta-cassiopeiae/) - 00h 49m.1, +57° 49' (13.4")
-- [65 Piscium](65-piscium/) - 00h 49m.9, +27° 43' (4.4")
-- [Psi 1 Piscium](psi-1-piscium/) - 01h 05m.6, +21° 28' (29.8")
-- [Zeta Piscium](zeta-piscium/) - 01h 13m.7, +07° 35' (22.8")
-- [Gamma Arietis](gamma-arietis/) - 01h 53m.5, +19° 18' (7.4")
-- [Lambda Arietis](lambda-arietis/) - 01h 57m.9, +23° 36' (37.3")
+
+{{< double-star-list month="november" >}}
+eta-cassiopeiae|00h 49m.1|+57° 49'|13.4"
+65-piscium|00h 49m.9|+27° 43'|4.4"
+psi-1-piscium|01h 05m.6|+21° 28'|29.8"
+zeta-piscium|01h 13m.7|+07° 35'|22.8"
+gamma-arietis|01h 53m.5|+19° 18'|7.4"
+lambda-arietis|01h 57m.9|+23° 36'|37.3"
+{{< /double-star-list >}}
 
 ### December Evening Sky (R.A. 2h - 4h)
-- [Alpha Piscium](alpha-piscium/) - 02h 02m.0, +02° 46' (1.9")
-- [Gamma Andromedae](gamma-andromedae/) - 02h 03m.9, +42° 20' (9.6")
-- [Iota Trianguli](iota-trianguli/) - 02h 12m.4, +30° 18' (4.0")
-- [Alpha Ursa Minoris](alpha-ursa-minoris/) - 02h 31m.8, +89° 16' (18.4")
-- [Gamma Ceti](gamma-ceti/) - 02h 43m.3, +03° 14' (2.0")
-- [Eta Persei](eta-persei/) - 02h 50m.7, +55° 54' (28.7")
-- [Struve 331](struve-331/) - 03h 00m.9, +52° 21' (12.0")
-- [32 Eridani](32-eridani/) - 03h 54m.3, -02° 57' (6.9")
+
+{{< double-star-list month="december" >}}
+alpha-piscium|02h 02m.0|+02° 46'|1.9"
+gamma-andromedae|02h 03m.9|+42° 20'|9.6"
+iota-trianguli|02h 12m.4|+30° 18'|4.0"
+alpha-ursa-minoris|02h 31m.8|+89° 16'|18.4"
+gamma-ceti|02h 43m.3|+03° 14'|2.0"
+eta-persei|02h 50m.7|+55° 54'|28.7"
+struve-331|03h 00m.9|+52° 21'|12.0"
+32-eridani|03h 54m.3|-02° 57'|6.9"
+{{< /double-star-list >}}
 
 ### January Evening Sky (R.A. 4h - 6h)
-- [Chi Tauri](chi-tauri/) - 04h 22m.6, +25° 38' (19.4")
-- [1 Camelopardalis](1-camelopardalis/) - 04h 32m.0, +53° 55' (10.4")
-- [55 Eridani](55-eridani/) - 04h 43m.6, -08° 48' (9.3")
-- [Beta Orionis](beta-orionis/) - 05h 14m.5, -08° 12' (9.7")
-- [118 Tauri](118-tauri/) - 05h 29m.3, +25° 09' (4.6")
-- [Delta Orionis](delta-orionis/) - 05h 32m.0, -00° 18' (56.2")
-- [Struve 747](struve-747/) - 05h 35m.0, -06° 00' (36.3")
-- [Lamda Orionis](lamda-orionis/) - 05h 35m.1, +09° 56' (4.3")
-- [Theta 1 Orionis](theta-1-orionis/) - 05h 35m.3, -05° 23' (Multiple)
-- [Iota Orionis](iota-orionis/) - 05h 35m.4, -05° 55' (12.5")
-- [Theta 2 Orionis](theta-2-orionis/) - 05h 35m.4, -05° 25' (52.3")
-- [Sigma Orionis](sigma-orionis/) - 05h 38m.7, -02° 36' (Multiple)
-- [Zeta Orionis](zeta-orionis/) - 05h 40m.8, -01° 57' (Multiple)
-- [Gamma Leporis](gamma-leporis/) - 05h 44m.5, -22° 27' (95.5")
-- [Theta Aurigae](theta-aurigae/) - 05h 59m.7, +37° 13' (4.2")
+
+{{< double-star-list month="january" >}}
+chi-tauri|04h 22m.6|+25° 38'|19.4"
+1-camelopardalis|04h 32m.0|+53° 55'|10.4"
+55-eridani|04h 43m.6|-08° 48'|9.3"
+beta-orionis|05h 14m.5|-08° 12'|9.7"
+118-tauri|05h 29m.3|+25° 09'|4.6"
+delta-orionis|05h 32m.0|-00° 18'|56.2"
+struve-747|05h 35m.0|-06° 00'|36.3"
+lambda-orionis|05h 35m.1|+09° 56'|4.3"
+theta-1-orionis|05h 35m.3|-05° 23'|Multiple
+iota-orionis|05h 35m.4|-05° 55'|12.5"
+theta-2-orionis|05h 35m.4|-05° 25'|52.3"
+sigma-orionis|05h 38m.7|-02° 36'|Multiple
+zeta-orionis|05h 40m.8|-01° 57'|Multiple
+gamma-leporis|05h 44m.5|-22° 27'|95.5"
+theta-aurigae|05h 59m.7|+37° 13'|4.2"
+{{< /double-star-list >}}
 
 ### February Evening Sky (R.A. 6h - 8h)
-- [Epsilon Monocerotis](epsilon-monocerotis/) - 06h 23m.8, +04° 36' (12.2")
-- [Beta Monocerotis](beta-monocerotis/) - 06h 28m.8, -07° 02' (Multiple)
-- [12 Lyncis](12-lyncis/) - 06h 46m.2, +59° 27' (8.9")
-- [Epsilon Canis Majoris](epsilon-canis-majoris/) - 06h 58m.6, -28° 58' (7.9")
-- [Delta Geminorum](delta-geminorum/) - 07h 20m.1, +21° 59' (5.5")
-- [19 Lyncis](19-lyncis/) - 07h 22m.9, +55° 17' (13.8")
-- [Alpha Geminorum](alpha-geminorum/) - 07h 34m.6, +31° 53' (5.5")
-- [k Puppis (HR2948)](k-puppis-hr2948-not-kappa/) - 07h 38m.8, -26° 48' (9.9")
+
+{{< double-star-list month="february" >}}
+epsilon-monocerotis|06h 23m.8|+04° 36'|12.2"
+beta-monocerotis|06h 28m.8|-07° 02'|Multiple
+12-lyncis|06h 46m.2|+59° 27'|8.9"
+epsilon-canis-majoris|06h 58m.6|-28° 58'|7.9"
+delta-geminorum|07h 20m.1|+21° 59'|5.5"
+19-lyncis|07h 22m.9|+55° 17'|13.8"
+alpha-geminorum|07h 34m.6|+31° 53'|5.5"
+k-puppis-hr2948-not-kappa|07h 38m.8|-26° 48'|9.9"
+{{< /double-star-list >}}
 
 ### March Evening Sky (R.A. 8h - 10h)
-- [Zeta Cancri](zeta-cancri/) - 08h 12m.2, +17° 39' (6.2")
-- [Iota Cancri](iota-cancri/) - 08h 46m.7, +28° 46' (30.7")
-- [38 Lyncis](38-lyncis/) - 09h 18m.8, +36° 48' (2.6")
+
+{{< double-star-list month="march" >}}
+zeta-cancri|08h 12m.2|+17° 39'|6.2"
+iota-cancri|08h 46m.7|+28° 46'|30.7"
+38-lyncis|09h 18m.8|+36° 48'|2.6"
+{{< /double-star-list >}}
 
 ### April Evening Sky (R.A. 10h - 12h)
-- [Alpha Leonis](alpha-leonis/) - 10h 08m.4, +11° 58' (179.2")
-- [Gamma Leonis](gamma-leonis/) - 10h 20m.0, +19° 50' (4.7")
-- [54 Leonis](54-leonis/) - 10h 55m.6, +24° 45' (6.8")
-- [N Hydrae (17 Crateris)](n-hydrae-17-crateris/) - 11h 32m.3, -29° 16' (9.6")
+
+{{< double-star-list month="april" >}}
+alpha-leonis|10h 08m.4|+11° 58'|179.2"
+gamma-leonis|10h 20m.0|+19° 50'|4.7"
+54-leonis|10h 55m.6|+24° 45'|6.8"
+n-hydrae-17-crateris|11h 32m.3|-29° 16'|9.6"
+{{< /double-star-list >}}
 
 ### May Evening Sky (R.A. 12h - 14h)
-- [Delta Corvi](delta-corvi/) - 12h 29m.9, -16° 31' (24.2")
-- [24 Comae Berenices](24-comae-berenices/) - 12h 35m.1, +18° 23' (20.2")
-- [Gamma Virginis](gamma-virginis/) - 12h 41m.7, -01° 27' (3.0")
-- [32 Camelopardalis](32-camelopardalis/) - 12h 49m.2, +83° 25' (21.8")
-- [Alpha Canum Venaticorum](alpha-canum-venaticorum/) - 12h 56m.0, +38° 19' (19.5")
-- [Zeta Ursa Majoris](zeta-ursa-majoris/) - 13h 23m.9, +54° 56' (Multiple)
+
+{{< double-star-list month="may" >}}
+delta-corvi|12h 29m.9|-16° 31'|24.2"
+24-comae-berenices|12h 35m.1|+18° 23'|20.2"
+gamma-virginis|12h 41m.7|-01° 27'|3.0"
+32-camelopardalis|12h 49m.2|+83° 25'|21.8"
+alpha-canum-venaticorum|12h 56m.0|+38° 19'|19.5"
+zeta-ursa-majoris|13h 23m.9|+54° 56'|Multiple
+{{< /double-star-list >}}
 
 ### June Evening Sky (R.A. 14h - 16h)
-- [Kappa Bootis](kappa-bootis/) - 14h 13m.5, +51° 47' (13.8")
-- [Iota Bootis](iota-bootis/) - 14h 16m.2, +51° 22' (39.0")
-- [Pi Bootis](pi-bootis/) - 14h 40m.7, +16° 25' (5.4")
-- [Epsilon Bootis](epsilon-bootis/) - 14h 45m.0, +27° 04' (2.8")
-- [Alpha Librae](alpha-librae/) - 14h 50m.9, -16° 03' (231.1")
-- [Xi Bootis](xi-bootis/) - 14h 51m.4, +19° 06' (5.2")
-- [Delta Bootis](delta-bootis/) - 15h 15m.5, +33° 19' (105.0")
-- [Mu Bootis](mu-bootis/) - 15h 24m.5, +37° 23' (109")
-- [Delta Serpentis](delta-serpentis/) - 15h 34m.8, +10° 32' (4.0")
-- [Zeta Corona Borealis](zeta-corona-borealis/) - 15h 39m.4, +36° 38' (6.3")
+
+{{< double-star-list month="june" >}}
+kappa-bootis|14h 13m.5|+51° 47'|13.8"
+iota-bootis|14h 16m.2|+51° 22'|39.0"
+pi-bootis|14h 40m.7|+16° 25'|5.4"
+epsilon-bootis|14h 45m.0|+27° 04'|2.8"
+alpha-librae|14h 50m.9|-16° 03'|231.1"
+xi-bootis|14h 51m.4|+19° 06'|5.2"
+delta-bootis|15h 15m.5|+33° 19'|105.0"
+mu-bootis|15h 24m.5|+37° 23'|109"
+delta-serpentis|15h 34m.8|+10° 32'|4.0"
+zeta-corona-borealis|15h 39m.4|+36° 38'|6.3"
+{{< /double-star-list >}}
 
 ### July Evening Sky (R.A. 16h - 18h)
-- [Xi Scorpii](xi-scorpii/) - 16h 04m.4, -11° 22' (7.2")
-- [Struve 1999](struve-1999/) - 16h 04m.4, -11° 27' (11.9")
-- [Beta Scorpii](beta-scorpii/) - 16h 05m.4, -19° 48' (13.4")
-- [Kappa Herculis](kappa-herculis/) - 16h 08m.1, +17° 03' (27.0")
-- [Nu Scorpii](nu-scorpii/) - 16h 12m.0, -19° 28' (41.3")
-- [Sigma Corona Borealis](sigma-corona-borealis/) - 16h 14m.7, +33° 52' (7.2")
-- [16/17 Draconis](1617-draconis/) - 16h 36m.2, +52° 55' (Multiple)
-- [Mu Draconis](mu-draconis/) - 17h 05m.3, +54° 28' (2.6")
-- [Alpha Herculis](alpha-herculis/) - 17h 14m.6, +14° 23' (5.0")
-- [Delta Herculis](delta-herculis/) - 17h 15m.0, +24° 50' (13.7")
-- [36 Ophiuchi](36-ophiuchi/) - 17h 15m.3, -26° 36' (5.1")
-- [Omicron Ophiuchi](omicron-ophiuchi/) - 17h 18m.0, -24° 17' (10.8")
-- [Rho Herculis](rho-herculis/) - 17h 23m.7, +37° 09' (4.1")
-- [Nu Draconis](nu-draconis/) - 17h 32m.2, +55° 11' (62.1")
-- [Psi Draconis](psi-draconis/) - 17h 41m.9, +72° 09' (29.6")
+
+{{< double-star-list month="july" >}}
+xi-scorpii|16h 04m.4|-11° 22'|7.2"
+struve-1999|16h 04m.4|-11° 27'|11.9"
+beta-scorpii|16h 05m.4|-19° 48'|13.4"
+kappa-herculis|16h 08m.1|+17° 03'|27.0"
+nu-scorpii|16h 12m.0|-19° 28'|41.3"
+sigma-corona-borealis|16h 14m.7|+33° 52'|7.2"
+1617-draconis|16h 36m.2|+52° 55'|Multiple
+mu-draconis|17h 05m.3|+54° 28'|2.6"
+alpha-herculis|17h 14m.6|+14° 23'|5.0"
+delta-herculis|17h 15m.0|+24° 50'|13.7"
+36-ophiuchi|17h 15m.3|-26° 36'|5.1"
+omicron-ophiuchi|17h 18m.0|-24° 17'|10.8"
+rho-herculis|17h 23m.7|+37° 09'|4.1"
+nu-draconis|17h 32m.2|+55° 11'|62.1"
+psi-draconis|17h 41m.9|+72° 09'|29.6"
+{{< /double-star-list >}}
 
 ### August Evening Sky (R.A. 18h - 20h)
-- [40/41 Draconis](4041-draconis/) - 18h 00m.2, +80° 00' (18.7")
-- [95 Herculis](95-herculis/) - 18h 01m.5, +21° 36' (6.4")
-- [70 Ophiuchi](70-ophiuchi/) - 18h 05m.5, +02° 30' (6.6")
-- [Epsilon Lyrae](epsilon-lyrae/) - 18h 44m.3, +39° 40' (Multiple)
-- [Zeta Lyrae](zeta-lyrae/) - 18h 44m.8, +37° 36' (43.7")
-- [Beta Lyrae](beta-lyrae/) - 18h 50m.1, +33° 22' (45.7")
-- [Struve 2404](struve-2404/) - 18h 50m.8, +10° 59' (3.6")
-- [Otto Struve 525](otto-struve-525/) - 18h 54m.9, +33° 58' (45.4")
-- [Theta Serpentis](theta-serpentis/) - 18h 56m.2, +04° 12' (22.4")
-- [Beta Cygni](beta-cygni/) - 19h 30m.7, +27° 58' (34.6")
-- [57 Aquilae](57-aquilae/) - 19h 54m.6, -08° 14' (36.3")
+
+{{< double-star-list month="august" >}}
+4041-draconis|18h 00m.2|+80° 00'|18.7"
+95-herculis|18h 01m.5|+21° 36'|6.4"
+70-ophiuchi|18h 05m.5|+02° 30'|6.6"
+epsilon-lyrae|18h 44m.3|+39° 40'|Multiple
+zeta-lyrae|18h 44m.8|+37° 36'|43.7"
+beta-lyrae|18h 50m.1|+33° 22'|45.7"
+struve-2404|18h 50m.8|+10° 59'|3.6"
+otto-struve-525|18h 54m.9|+33° 58'|45.4"
+theta-serpentis|18h 56m.2|+04° 12'|22.4"
+beta-cygni|19h 30m.7|+27° 58'|34.6"
+57-aquilae|19h 54m.6|-08° 14'|36.3"
+{{< /double-star-list >}}
 
 ### September Evening Sky (R.A. 20h - 22h)
-- [31 Cygni](31-cygni/) - 20h 13m.6, +46° 44' (Multiple)
-- [Alpha Capricornus](alpha-capricornus/) - 20h 18m.1, -12° 33' (381.2")
-- [Beta Capricornus](beta-capricornus/) - 20h 21m.0, -14° 47' (205.4")
-- [Gamma Delphinus](gamma-delphinus/) - 20h 46m.7, +16° 07' (9.0")
-- [61 Cygni](61-cygni/) - 21h 06m.9, +38° 45' (31.8")
-- [Beta Cephei](beta-cephei/) - 21h 28m.7, +70° 34' (13.5")
-- [Struve 2816](struve-2816/) - 21h 39m.0, +57° 29' (Multiple)
-- [Epsilon Pegasi](epsilon-pegasi/) - 21h 44m.2, +09° 53' (143.9")
+
+{{< double-star-list month="september" >}}
+31-cygni|20h 13m.6|+46° 44'|Multiple
+alpha-capricornus|20h 18m.1|-12° 33'|381.2"
+beta-capricornus|20h 21m.0|-14° 47'|205.4"
+gamma-delphinus|20h 46m.7|+16° 07'|9.0"
+61-cygni|21h 06m.9|+38° 45'|31.8"
+beta-cephei|21h 28m.7|+70° 34'|13.5"
+struve-2816|21h 39m.0|+57° 29'|Multiple
+epsilon-pegasi|21h 44m.2|+09° 53'|143.9"
+{{< /double-star-list >}}
 
 ### October Evening Sky (R.A. 22h - 0h)
-- [Xi Cephei](xi-cephei/) - 22h 03m.8, +64° 38' (8.1")
-- [Zeta Aquarii](zeta-aquarii/) - 22h 28m.8, -00° 01' (2.4")
-- [Delta Cephei](delta-cephei/) - 22h 29m.2, +58° 25' (41.0")
-- [8 Lacerta](8-lacerta/) - 22h 35m.9, +39° 38' (22.3")
-- [94 Aquarii](94-aquarii/) - 23h 19m.1, -13° 28' (12.1")
-- [Sigma Cassiopeiae](sigma-cassiopeiae/) - 23h 59m.0, +55° 45' (3.1")
+
+{{< double-star-list month="october" >}}
+xi-cephei|22h 03m.8|+64° 38'|8.1"
+zeta-aquarii|22h 28m.8|-00° 01'|2.4"
+delta-cephei|22h 29m.2|+58° 25'|41.0"
+8-lacerta|22h 35m.9|+39° 38'|22.3"
+94-aquarii|23h 19m.1|-13° 28'|12.1"
+sigma-cassiopeiae|23h 59m.0|+55° 45'|3.1"
+{{< /double-star-list >}}
 
 ## Observation Techniques
 
@@ -167,6 +203,3 @@ Below are all 100 double stars in the program, organized by the month when they 
 - Estimate magnitude difference
 - Sketch the pair if possible
 
-## Progress Tracking
-
-Currently observed: 0/100 pairs (0%)
