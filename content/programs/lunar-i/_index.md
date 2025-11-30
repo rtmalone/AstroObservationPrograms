@@ -5,14 +5,17 @@ summary: "Observe 100 specific lunar features including major craters, mountain 
 hasSketchOrImage: false
 ---
 
-The Astronomical League's Lunar Program is designed to encourage observation of the Moon's surface features. The Lunar I program requires observation of 100 specific lunar features including craters, mountain ranges, valleys, and other formations.
+The Astronomical League's Lunar Program introduces observers to Earth's closest celestial neighbor and provides excellent observing opportunities when the Moon is up. This program is ideal for light-polluted areas and can be completed with modest equipment (7×35 binoculars and a 60mm refractor have been successfully used).
+
+**Official AL Program**: [Lunar Observing Program](https://www.astroleague.org/lunar-observing-program/)
 
 ## Program Requirements
 
-- Observe 100 designated lunar features
-- Record observations with date, time, and equipment used
-- Sketch or photograph each feature (optional but recommended)
-- Complete observations over multiple lunar phases
+- Observe 100 designated lunar features (18 naked-eye, 46 binocular, 36 telescopic)
+- Record date, time, seeing, transparency, and equipment used
+- Equipment flexibility: may use higher-level equipment if needed (binoculars for naked-eye targets, telescope for binocular targets)
+- Optional: 10 alternative activities available, each counting as two standard observations
+- Alternative certifications: Eyes Only (18 features), Binocular (64 features), or Imaging certification
 
 ## Complete Lunar I Target List
 
@@ -172,5 +175,3 @@ rupes-altai|Altai Scarp, 427 km long
 rima-hyginus|Linear rille through Hyginus crater
 lunar-rays|Ray systems from Tycho and Copernicus
 {{< /lunar-list >}}
-
-**Total: 100 lunar features**

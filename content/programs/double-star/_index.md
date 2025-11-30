@@ -5,15 +5,19 @@ summary: "Observe 100 double and multiple star systems to explore stellar compan
 hasSketchOrImage: true
 ---
 
-The Astronomical League's Double Star Program introduces observers to the fascinating world of binary and multiple star systems. This program requires observation of 100 double and multiple star systems, showcasing the beauty and diversity of stellar companions.
+The Astronomical League's Double Star Program introduces observers to 100 of the best double and multiple star systems in the heavens. This program is forgiving and doesn't require dark or moonless skies, making it perfect for less-than-perfect nights and light-polluted areas.
+
+**Official AL Program**: [Double Star Observing Program](https://www.astroleague.org/double-star-observing-program/)
 
 ## Program Requirements
 
 - Observe 100 designated double and multiple star systems
-- Successfully split each pair (resolve both components)
-- Record separation, position angle, and color descriptions
-- Note magnitude differences between components
-- Observations across different seasons for variety
+- Use any telescope with 60mm or larger objective (originally designed for 3-inch refractor)
+- Record: date, time, latitude/longitude, power(s) used, seeing, transparency, and instrument
+- Sketch each pair showing relative magnitudes, spacing, and orientation (N and E or W marked)
+- Estimate position angle within ~20 degrees of accepted value
+- Identify primary (brighter) star in each system
+- Note colors and describe splitting difficulty (optional but encouraged)
 
 ## Complete Double Star List
 
@@ -181,24 +185,17 @@ sigma-cassiopeiae|23h 59m.0|+55° 45'|3.1"
 
 ## Observation Techniques
 
-### Equipment Requirements
+### Equipment Recommendations
 - Minimum 4" telescope for most pairs
 - 6" or larger recommended for close pairs
-- High-quality eyepieces essential
+- Long focal length
+- High-quality eyepieces
 - Stable mount for high magnification
-- Good seeing conditions critical
 
 ### Splitting Techniques
 - Use highest useful magnification
 - Look for elongation before clean split
 - Use averted vision for faint companions
 - Try different eyepieces and magnifications
-- Be patient - some pairs require perfect conditions
-
-### Recording Observations
-- Note separation in arcseconds
-- Record position angle (PA) in degrees
-- Describe colors of both components
-- Estimate magnitude difference
-- Sketch the pair if possible
+- Be patient - some pairs require calm seeing conditions
 

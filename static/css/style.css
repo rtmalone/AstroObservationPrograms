@@ -219,21 +219,12 @@ h3 {
 }
 
 .double-star-list {
-    list-style: none;
     padding-left: 0;
 }
 
 .double-star-list li {
     margin-bottom: 0.5rem;
-    padding-left: 1.5rem;
     position: relative;
-}
-
-.double-star-list li:before {
-    content: "−";
-    position: absolute;
-    left: 0;
-    color: #6b9bd1;
 }
 
 .observed-date-badge {
@@ -322,6 +313,18 @@ article.content header {
 
 article.content header h1 {
     margin-bottom: 0.5rem;
+}
+
+.content ul {
+    margin-left: 2rem
+}
+
+.content p {
+    margin-left: 1rem;
+}
+
+.content p + p{
+    margin-top: 1rem;
 }
 
 footer {
