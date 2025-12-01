@@ -8,7 +8,8 @@ dec: "-30° 29' 00\""
 magnitude: "8.5"
 size: "9.1'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-08-15"
 prev_object: "M53"
 prev_object_link: "../m53-coma-cluster/"
 next_object: "M55"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M54 - Sagittarius Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Very dense globular cluster with a bright core and faint disc visible at high magnification.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M54 - Sagittarius Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | G |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 93.8x (16mm eyepiece + 2x Barlow) |
+| **Date:** | 2023-08-15 |
+| **Time:** | 9:48 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Under low magnification, looks like a faint star. Very dense cluster with a bright core and faint disc under high magnification.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Used Telrad finder.
 

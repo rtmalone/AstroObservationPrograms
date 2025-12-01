@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barred-Spiral-Galaxy on Astronomy</title>
+    <link>http://localhost:62012/tags/barred-spiral-galaxy/</link>
+    <description>Recent content in Barred-Spiral-Galaxy on Astronomy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2023 12:15:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:62012/tags/barred-spiral-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M91</title>
+      <link>http://localhost:62012/programs/messier/m91/</link>
+      <pubDate>Wed, 10 May 2023 12:15:00 -0500</pubDate>
+      <guid>http://localhost:62012/programs/messier/m91/</guid>
+      <description>&lt;p&gt;Viewing this galaxy more &amp;ldquo;top down&amp;rdquo;, but very tiny and faint still. Triangulated with M90 &amp;amp; M88 to find this galaxy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -8,7 +8,8 @@ dec: "+21° 41' 00\""
 magnitude: "9.0"
 size: "9.3' × 5.4'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-04-18"
 prev_object: "M63"
 prev_object_link: "../m63-sunflower-galaxy/"
 next_object: "M65"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M64 - Black Eye Galaxy
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Spiral galaxy with elongated shape. Easier to spot being higher in the sky. Meteor sighting during observation!
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M64 - Black Eye Galaxy |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | E |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 30.0x (25mm eyepiece) |
+| **Date:** | 2023-04-18 |
+| **Time:** | 10:57 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Elongated fuzzy that leans to the right in the eyepiece.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+A Lyriad meteor went through the middle of the eyepiece when observing this target. This galaxy, being higher in the sky, was noticeably easier to spot than M106 I observed earlier in the evening. Observed with 10mm Plossl too. Used Telrad finder.
 

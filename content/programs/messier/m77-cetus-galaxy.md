@@ -8,7 +8,8 @@ dec: "-00° 02' 00\""
 magnitude: "10.5"
 size: "7' × 6'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-12-06"
 prev_object: "M76"
 prev_object_link: "../m76-little-dumbbell/"
 next_object: "M78"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M77 - Cetus Galaxy
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Spiral galaxy also known as Cetus A. Perfectly round with tight bright core and hazy halo.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M77 - Cetus Galaxy |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 4 |
+| **Lat/Lon:** | 35.150, -85.326 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 83.3x (9mm eyepiece) |
+| **Date:** | 2023-12-06 |
+| **Time:** | 9:57 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+M77 looked perfectly round with a tight bright core. In the eyepiece around the core the rest of the galaxy resembled the halo you see around bright objects when obscured by haze.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Research prior to observing M77 indicated that along with a foreground star nearby can easily be mistaken for a double star. I could immediately see how that could be the case. Used Telrad finder.
 

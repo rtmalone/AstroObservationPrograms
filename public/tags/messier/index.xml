@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Messier on Astronomy</title>
+    <link>http://localhost:49428/tags/messier/</link>
+    <description>Recent content in Messier on Astronomy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jul 2022 11:02:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:49428/tags/messier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M81 - Bode&#39;s Galaxy</title>
+      <link>http://localhost:49428/programs/messier/m81/</link>
+      <pubDate>Sat, 23 Jul 2022 11:02:00 -0500</pubDate>
+      <guid>http://localhost:49428/programs/messier/m81/</guid>
+      <description>&lt;p&gt;A larger galaxy than most visually but still faint. Can&amp;rsquo;t discern any structure. Took a lot of patience to see these (M81 &amp;amp; M82).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

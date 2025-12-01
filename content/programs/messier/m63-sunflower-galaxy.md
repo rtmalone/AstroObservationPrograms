@@ -8,7 +8,8 @@ dec: "+42° 02' 00\""
 magnitude: "8.5"
 size: "10' × 6'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-03-30"
 prev_object: "M62"
 prev_object_link: "../m62-ophiuchus-cluster/"
 next_object: "M64"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M63 - Sunflower Galaxy
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Spiral galaxy that required patience to locate. Fuzzy elongated patch with nearby stars.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M63 - Sunflower Galaxy |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | E |
+| **Transparency:** | 3 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 60.0x (25mm eyepiece + 2x Barlow) |
+| **Date:** | 2023-03-30 |
+| **Time:** | 10:42 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Eventually identified nearby stars to positively id the fuzzy elongated patch that is this target.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Took much patience scanning the sky. Could identify two nearby stars that my astro software doesn't have a name for. Used Telrad finder.
 

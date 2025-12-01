@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markarians-Chain on Astronomy</title>
+    <link>http://localhost:62012/tags/markarians-chain/</link>
+    <description>Recent content in Markarians-Chain on Astronomy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2023 11:53:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:62012/tags/markarians-chain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M84</title>
+      <link>http://localhost:62012/programs/messier/m84/</link>
+      <pubDate>Tue, 09 May 2023 11:53:00 -0500</pubDate>
+      <guid>http://localhost:62012/programs/messier/m84/</guid>
+      <description>&lt;p&gt;Tiny little smudge in the sky within Markarian&amp;rsquo;s Chain. Hopped from M87 during the Virgo Cluster observations; Observed with M86.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

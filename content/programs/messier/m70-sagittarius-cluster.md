@@ -8,7 +8,8 @@ dec: "-32° 18' 00\""
 magnitude: "9.0"
 size: "7.8'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-07-11"
 prev_object: "M69"
 prev_object_link: "../m69-sagittarius-cluster/"
 next_object: "M71"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M70 - Sagittarius Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Very faint and tiny globular cluster. Viewed with Messier's Quadruplet in same field of view.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M70 - Sagittarius Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 53.6x (14mm eyepiece) |
+| **Date:** | 2023-07-11 |
+| **Time:** | 1:40 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Cluster is very faint and tiny.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Sparse starfield with very dim and small stars. Was able to include the nearby Messier's Quadruplet in the FOV. Used Telrad finder.
 

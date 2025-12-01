@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Cluster on Astronomy</title>
+    <link>http://localhost:49428/tags/open-cluster/</link>
+    <description>Recent content in Open-Cluster on Astronomy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2023 11:13:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:49428/tags/open-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M93 - Winter Butterfly Cluster</title>
+      <link>http://localhost:49428/programs/messier/m93/</link>
+      <pubDate>Mon, 13 Feb 2023 11:13:00 -0500</pubDate>
+      <guid>http://localhost:49428/programs/messier/m93/</guid>
+      <description>&lt;p&gt;Looked at wrong neighboring star 1st, but after correcting found immediately! To me the main cluster looks like an old man with a mustache.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -8,7 +8,8 @@ dec: "+11° 49' 00\""
 magnitude: "7.5"
 size: "30.0'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-03-15"
 prev_object: "M66"
 prev_object_link: "../m66-leo-galaxy/"
 next_object: "M68"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M67 - Cancer Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Open cluster also known as the King Cobra Cluster. Evenly distributed stars with identifiable groupings.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M67 - Cancer Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 4 |
+| **Lat/Lon:** | 35.150, -85.326 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 75.0x (10mm eyepiece) |
+| **Date:** | 2023-03-15 |
+| **Time:** | 9:38 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Evenly distributed open cluster with a few groups of stars to match and identify cluster. Not the brightest of the open clusters.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+I noted these matches in my sketch. Used Telrad finder.
 

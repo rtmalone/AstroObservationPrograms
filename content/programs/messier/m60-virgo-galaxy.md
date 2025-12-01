@@ -8,7 +8,8 @@ dec: "+11° 34' 00\""
 magnitude: "10.5"
 size: "7' × 6'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-05-09"
 prev_object: "M59"
 prev_object_link: "../m59-virgo-galaxy/"
 next_object: "M61"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M60 - Virgo Galaxy
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Elliptical galaxy, one of the brightest in the Virgo Cluster. Starting point for Virgo observations.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M60 - Virgo Galaxy |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | E |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 30.0x (25mm eyepiece) |
+| **Date:** | 2023-05-09 |
+| **Time:** | 11:02 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Tiny and faint. But even in the 8th magnitude of brightness it is going to be one of the brightest galaxies in the Virgo Cluster.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Hopped from Vindemiatrix in Virgo through 41 & 34 Virginis stars to start my observing in the Virgo Clusters. Used Telrad finder.
 

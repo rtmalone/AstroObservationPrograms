@@ -8,7 +8,8 @@ dec: "-21° 55' 00\""
 magnitude: "9.5"
 size: "6.0'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-08-15"
 prev_object: "M74"
 prev_object_link: "../m74-pisces-galaxy/"
 next_object: "M76"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M75 - Sagittarius Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Very tight globular cluster appearing like an unfocused star. Bright core with fuzzy disc at high magnification.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M75 - Sagittarius Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | G |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 93.8x (16mm eyepiece + 2x Barlow) |
+| **Date:** | 2023-08-15 |
+| **Time:** | 10:01 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Like M54, very tight cluster making it look like an unfocused star. At the high magnification a brighter core emerges with fuzzy disc around it.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Used Telrad finder.
 

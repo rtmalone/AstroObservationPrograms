@@ -8,7 +8,8 @@ dec: "+18° 10' 00\""
 magnitude: "8.5"
 size: "12.6'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-03-30"
 prev_object: "M52"
 prev_object_link: "../m52-cassiopeia-cluster/"
 next_object: "M54"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M53 - Coma Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Globular cluster observed at high magnification, showing gradation from bright center to edges.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M53 - Coma Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | E |
+| **Transparency:** | 3 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 150.0x (10mm eyepiece + 2x Barlow) |
+| **Date:** | 2023-03-30 |
+| **Time:** | 10:52 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+A tinier globular with some gradation from the brighter center to the edges.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Hopped from Vindemiatrix in Virgo via Telrad widths to find this cluster. Used Telrad finder.
 

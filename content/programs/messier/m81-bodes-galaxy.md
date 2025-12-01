@@ -2,13 +2,14 @@
 
 title: "M81 - Bode's Galaxy"
 constellation: "Ursa Major"
-object_type: "Galaxy"
-ra: "09h 55m 36s"
-dec: "+69° 04' 00\""
-magnitude: "8.5"
-size: "21' × 10'"
+object_type: "Spiral Galaxy"
+ra: "09h 55m 33s"
+dec: "+69° 03' 55\""
+magnitude: "6.9"
+size: "26.9' × 14.1'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2022-07-23"
 prev_object: "M80"
 prev_object_link: "../m80-scorpius-cluster/"
 next_object: "M82"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M81 - Bode's Galaxy
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+A larger galaxy than most visually but still faint. Can't discern any structure.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M81 - Bode's Galaxy |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 75.0x (10mm eyepiece) |
+| **Date:** | 2022-07-23 |
+| **Time:** | 11:02 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+A larger galaxy than most visually but still faint. Can't discern any structure.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Took a lot of patience to see these (M81 & M82). Used Red Dot finder.
 

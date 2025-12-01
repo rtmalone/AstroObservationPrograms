@@ -4,22 +4,23 @@ title: "M97 - Owl Nebula"
 constellation: "Ursa Major"
 object_type: "Planetary Nebula"
 ra: "11h 14m 48s"
-dec: "+55° 01' 00\""
-magnitude: "12.0"
-size: "202\" × 196\""
+dec: "+55° 01' 08\""
+magnitude: "9.9"
+size: "3.4' × 3.3'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-02-22"
 prev_object: "M96"
-prev_object_link: "../m96-leo-galaxy/"
+prev_object_link: "../m96/"
 next_object: "M98"
-next_object_link: "../m98-coma-galaxy/"
+next_object_link: "../m98/"
 program_link: "../"
 program_name: "Messier Program"
 ---
 
 # M97 - Owl Nebula
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Aided with the use of an Oxygen III filter, but could not see the structures that give it the owl look.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M97 - Owl Nebula |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 4 |
+| **Lat/Lon:** | 35.150, -85.326 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 75.0x (10mm eyepiece) |
+| **Date:** | 2023-02-22 |
+| **Time:** | 10:26 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Could not see the structures that give it the owl look.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Aided with the use of an Oxygen III filter. Could not find nearby M108 with the sky conditions. Used Telrad finder.
 

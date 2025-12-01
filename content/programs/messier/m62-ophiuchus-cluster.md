@@ -8,7 +8,8 @@ dec: "-30° 07' 00\""
 magnitude: "8.0"
 size: "14.1'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-07-10"
 prev_object: "M61"
 prev_object_link: "../m61-virgo-galaxy/"
 next_object: "M63"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M62 - Ophiuchus Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Globular cluster also known as the Flickering Globular Cluster. Tight fuzzy appearance.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M62 - Ophiuchus Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 107.1x (14mm eyepiece + 2x Barlow) |
+| **Date:** | 2023-07-10 |
+| **Time:** | 10:52 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Tight fuzzy cluster.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Surrounding starfield is plentiful but dim. Used Telrad finder.
 

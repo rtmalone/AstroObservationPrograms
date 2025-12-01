@@ -8,7 +8,8 @@ dec: "+13° 06' 00\""
 magnitude: "10.5"
 size: "8' × 1.5'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-03-15"
 prev_object: "M64"
 prev_object_link: "../m64-black-eye-galaxy/"
 next_object: "M66"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M65 - Leo Galaxy
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Spiral galaxy observed from home. Very thin appearance, making it easier to identify.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M65 - Leo Galaxy |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 4 |
+| **Lat/Lon:** | 35.150, -85.326 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 75.0x (10mm eyepiece) |
+| **Date:** | 2023-03-15 |
+| **Time:** | 11:18 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+M65 is very thin.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+High in the sky, therefore a darker sky and a bit more contrast. Made finding this and nearby M66 easier to find than other observations tonight. Used Telrad finder.
 

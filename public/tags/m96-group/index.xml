@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M96-Group on Astronomy</title>
+    <link>http://localhost:49428/tags/m96-group/</link>
+    <description>Recent content in M96-Group on Astronomy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Apr 2023 11:20:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:49428/tags/m96-group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M95</title>
+      <link>http://localhost:49428/programs/messier/m95/</link>
+      <pubDate>Tue, 18 Apr 2023 11:20:00 -0500</pubDate>
+      <guid>http://localhost:49428/programs/messier/m95/</guid>
+      <description>&lt;p&gt;Observed as M96 group; Very faint but M105 and 96 were easily visible on this exceptional night!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

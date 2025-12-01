@@ -8,7 +8,8 @@ dec: "-30° 58' 00\""
 magnitude: "7.0"
 size: "19.0'"
 image: "/images/placeholder-messier.png"
-observed: false
+observed: true
+date: "2023-07-11"
 prev_object: "M54"
 prev_object_link: "../m54-sagittarius-cluster/"
 next_object: "M56"
@@ -19,7 +20,7 @@ program_name: "Messier Program"
 
 # M55 - Sagittarius Cluster
 
-*Observation not yet recorded. This is a placeholder for future observations.*
+Large globular cluster, also known as Specter Cluster. Faint and fuzzy with sparse surrounding starfield.
 
 ---
 
@@ -28,19 +29,19 @@ program_name: "Messier Program"
 |  |  |
 |-------|------|
 | **Object Name:** | M55 - Sagittarius Cluster |
-| **Seeing:** | *(1-10, 10 being perfect)* |
-| **Transparency:** | *(Limiting magnitude)* |
-| **Lat/Lon:** | 35.16, -85.37 |
-| **Instrument:** | *(Telescope/binoculars used)* |
-| **Power:** | *(Magnification used)* |
-| **Date:** | *(YYYY-MM-DD)* |
-| **Time:** | *(Local time)* |
+| **Seeing:** | VG |
+| **Transparency:** | 6 |
+| **Lat/Lon:** | 35.161, -85.372 |
+| **Instrument:** | 750mm/150mm |
+| **Power:** | 31.3x (24mm eyepiece) |
+| **Date:** | 2023-07-11 |
+| **Time:** | 1:47 EST |
 
 ## Observation Notes
 
 ### Visual Description
-*Record your visual impression of the object here. Note colors, structure, brightness patterns, and any interesting features visible through your instrument.*
+Really large globular cluster even with a lesser power. Still faint and fuzzy though.
 
 ### Additional Notes
-*Any other observations, challenges encountered, or notable details about this observation session*
+Extremely sparse surrounding starfield. Used Telrad finder.
 
